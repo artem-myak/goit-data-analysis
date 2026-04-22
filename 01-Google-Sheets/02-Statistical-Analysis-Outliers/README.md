@@ -18,5 +18,7 @@ This project focuses on descriptive statistics and identifying data anomalies wi
 ## Visualizations
 ![Outlier Detection Charts](diagrams.png)
 
+🔗 **Live Version:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/1SwtTuNv2ysRFN2Pg3x8K6Lb-R51md7rpEsQ4ZY5jd7c/edit?usp=sharing)
+
 ---
 *Tools used: Google Sheets (USA locale), IQR Statistical Method.*
