@@ -22,3 +22,4 @@ This project focuses on descriptive statistics and identifying data anomalies wi
 
 ---
 *Tools used: Google Sheets (USA locale), IQR Statistical Method.*
+Note: This project was completed as part of the GoIT Data Analysis course.
