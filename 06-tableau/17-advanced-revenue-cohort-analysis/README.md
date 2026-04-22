@@ -11,3 +11,5 @@ Building upon previous revenue data, this project implements advanced SaaS metri
 * **LOD Expressions:** Used Fixed Level of Detail expressions to identify each user's first payment date.
 
 🔗 **Tableau Public Workbook:** [SaaS Bussiness Perfomance Dashboard](https://public.tableau.com/views/GoIT_HW_Tableau1/SaaSBussinessPerfomanceDashboardv2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Note: This project was completed as part of the GoIT Data Analysis course.
