@@ -12,5 +12,7 @@ This project involves transforming raw data (100+ transactions) into a functiona
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard_AM.png)
 
+🔗 **Live Version:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/1Y8pb5hBUMif3CoHIcRoLuJfLcs8-d4wL7MD2JGXelEI/edit?usp=sharing)
+
 ---
 *Note: This project was completed as part of the GoIT Data Analysis course.*
