@@ -25,3 +25,4 @@ Instead of manually checking for updates, this system provides a "Live Dashboard
 
 ---
 *Tools: Google Sheets, Google Apps Script (JavaScript-based), IMPORTRANGE, VLOOKUP/MATCH.*
+Note: This project was completed as part of the GoIT Data Analysis course.
