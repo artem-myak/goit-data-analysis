@@ -10,3 +10,8 @@ This project analyzes user engagement metrics for a mobile game. It focuses on a
 * **Interactive Filtering:** Comprehensive dashboard filters including Device Language, Game Name, Age Group, and Date.
 
 🔗 **Tableau Public Workbook:** [Games Activities Dashboard](https://public.tableau.com/views/GameActivitiesDashboardHW2/GameActivitiesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Dashboard Preview
+![Game Activities Dashboard](dashboard_main.png)
+
+Note: This project was completed as part of the GoIT Data Analysis course.
