@@ -19,4 +19,7 @@ This project focuses on building an interactive business dashboard using Tableau
 
 🔗 **Live Dashboard:** [Link to your Tableau Public Profile](https://public.tableau.com/views/GoIT_HW_Tableau1/SaaSBusinessPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Dashboard Preview
+![Revenue Dashboard](SaaS Bussiness Perfomance Dashboard.png)
+
 Note: This project was completed as part of the GoIT Data Analysis course.
