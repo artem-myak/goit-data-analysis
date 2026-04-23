@@ -1,0 +1,1508 @@
+order_id,user_id,order_date,product_category,product_name,quantity,unit_price,total_amount,discount_amount,payment_method,order_status
+10001,1001,2024-08-30,Books,Cookbook,2,11.0,22.0,1.97,apple_pay,completed
+10002,1001,2024-08-30,Home,Bed Sheets,2,210.31,420.62,0,credit_card,completed
+10003,1001,2024-08-30,Sports,Water Bottle,2,233.11,466.22,36.76,credit_card,completed
+10004,1001,2024-08-30,Books,Data Science Guide,1,43.28,43.28,0,google_pay,completed
+10005,1001,2024-07-06,Beauty,Lipstick,2,58.1,116.2,0,apple_pay,completed
+10006,1001,2024-07-06,Sports,Resistance Bands,1,277.8,277.8,0,google_pay,refunded
+10007,1001,2024-05-20,Clothing,Winter Jacket,1,46.39,46.39,0,google_pay,completed
+10008,1001,2024-05-20,Books,Cookbook,3,35.27,105.81,0,apple_pay,completed
+10009,1002,2023-12-09,Books,The Great Novel,1,12.16,12.16,0,credit_card,cancelled
+10010,1002,2024-05-12,Sports,Basketball,3,241.31,723.93,0,credit_card,cancelled
+10011,1002,2024-05-12,Sports,Yoga Mat,1,149.78,149.78,0,google_pay,completed
+10012,1002,2024-05-12,Sports,Running Belt,1,263.39,263.39,0,apple_pay,completed
+10013,1003,2024-10-14,Electronics,Sony Headphones,2,595.8,1191.6,201.24,google_pay,completed
+10014,1003,2024-10-14,Electronics,MacBook Pro,3,543.0,1629.0,0,apple_pay,completed
+10015,1003,2024-10-14,Clothing,Sweater,2,60.04,120.08,0,google_pay,completed
+10016,1003,2024-10-14,Sports,Yoga Mat,2,172.37,344.74,50.1,apple_pay,completed
+10017,1003,2024-11-14,Home,Vacuum Cleaner,1,277.55,277.55,0,apple_pay,completed
+10018,1003,2024-11-14,Home,Cookware Set,2,46.45,92.9,0,apple_pay,completed
+10019,1003,2024-11-23,Home,Towel Set,2,302.71,605.42,107.05,paypal,completed
+10020,1003,2024-11-23,Clothing,Running Shoes,3,196.25,588.75,0,google_pay,completed
+10021,1003,2024-11-23,Beauty,Shampoo,2,72.06,144.12,23.73,apple_pay,completed
+10022,1003,2024-09-11,Books,Data Science Guide,1,16.67,16.67,2.18,credit_card,completed
+10023,1003,2024-09-11,Books,Mystery Novel,3,9.5,28.5,0,credit_card,completed
+10024,1003,2024-11-28,Clothing,Blue Jeans,2,78.21,156.42,0,paypal,completed
+10025,1003,2024-11-28,Home,Vacuum Cleaner,2,259.93,519.86,0,apple_pay,completed
+10026,1003,2024-11-28,Electronics,iPhone 15,3,2032.25,6096.75,775.54,google_pay,completed
+10027,1003,2024-11-28,Books,Cookbook,3,20.46,61.38,10.83,paypal,completed
+10028,1004,2024-11-27,Home,Table Lamp,3,382.54,1147.62,0,paypal,completed
+10029,1004,2024-11-27,Sports,Resistance Bands,3,33.73,101.19,0,credit_card,completed
+10030,1004,2024-11-27,Electronics,iPad Air,1,1715.03,1715.03,0,apple_pay,completed
+10031,1004,2023-08-28,Sports,Gym Bag,3,164.87,494.61,90.38,credit_card,completed
+10032,1004,2023-08-28,Home,Cookware Set,2,243.15,486.3,0,apple_pay,completed
+10033,1004,2023-08-28,Books,Data Science Guide,2,24.07,48.14,0,google_pay,completed
+10034,1004,2023-08-28,Beauty,Perfume,1,48.69,48.69,8.51,google_pay,completed
+10035,1004,2024-10-30,Sports,Tennis Racket,1,176.32,176.32,0,google_pay,cancelled
+10036,1004,2024-10-30,Electronics,Apple Watch,1,2375.14,2375.14,0,credit_card,cancelled
+10037,1007,2024-08-15,Clothing,Running Shoes,1,27.06,27.06,0,paypal,completed
+10038,1007,2024-08-15,Electronics,iPhone 15,1,1820.66,1820.66,0,credit_card,completed
+10039,1007,2024-07-08,Electronics,Kindle,3,1148.71,3446.13,0,apple_pay,completed
+10040,1008,2023-06-06,Home,Bed Sheets,1,135.84,135.84,11.59,apple_pay,completed
+10041,1008,2023-06-06,Beauty,Foundation,3,141.25,423.75,0,google_pay,completed
+10042,1009,2024-01-26,Books,Data Science Guide,1,21.59,21.59,0,apple_pay,cancelled
+10043,1009,2024-01-26,Beauty,Shampoo,1,12.5,12.5,2.49,google_pay,completed
+10044,1009,2024-01-26,Clothing,Blue Jeans,2,166.13,332.26,0,google_pay,completed
+10045,1009,2024-12-10,Electronics,iPad Air,1,2285.47,2285.47,0,google_pay,completed
+10046,1009,2024-12-10,Books,Self Help Book,1,11.95,11.95,1.3,credit_card,completed
+10047,1009,2024-12-10,Beauty,Shampoo,3,127.18,381.54,31.94,google_pay,completed
+10048,1009,2024-12-10,Sports,Resistance Bands,1,128.27,128.27,24.04,google_pay,completed
+10049,1009,2024-04-07,Sports,Yoga Mat,2,234.53,469.06,53.7,apple_pay,completed
+10050,1010,2024-09-06,Books,Biography,1,24.54,24.54,0,paypal,completed
+10051,1010,2024-09-06,Sports,Gym Bag,3,172.74,518.22,69.89,google_pay,completed
+10052,1011,2024-05-04,Home,Coffee Maker,2,326.05,652.1,0,credit_card,completed
+10053,1011,2024-04-08,Books,The Great Novel,3,32.79,98.37,0,paypal,refunded
+10054,1011,2024-04-08,Books,Mystery Novel,2,42.97,85.94,0,paypal,completed
+10055,1011,2024-04-08,Books,The Great Novel,2,48.11,96.22,0,apple_pay,completed
+10056,1011,2024-04-08,Clothing,Winter Jacket,2,84.02,168.04,0,credit_card,cancelled
+10057,1011,2023-06-27,Books,Cookbook,2,37.24,74.48,0,apple_pay,completed
+10058,1011,2023-06-27,Books,Data Science Guide,1,12.86,12.86,0,paypal,completed
+10059,1011,2023-06-27,Home,Blender,3,292.72,878.16,0,apple_pay,completed
+10060,1011,2023-06-27,Clothing,Running Shoes,1,127.57,127.57,0,credit_card,completed
+10061,1011,2023-10-25,Electronics,Sony Headphones,3,1908.1,5724.3,0,apple_pay,completed
+10062,1011,2023-10-25,Beauty,Perfume,2,78.6,157.2,15.38,paypal,completed
+10063,1011,2023-10-25,Electronics,MacBook Pro,1,2157.04,2157.04,0,credit_card,completed
+10064,1011,2023-10-25,Beauty,Face Cream,1,98.6,98.6,0,apple_pay,completed
+10065,1012,2024-09-22,Home,Coffee Maker,2,92.52,185.04,16.98,paypal,completed
+10066,1012,2024-09-22,Sports,Running Belt,3,188.53,565.59,103.4,credit_card,completed
+10067,1012,2024-09-22,Electronics,Kindle,3,1733.29,5199.87,663.02,apple_pay,completed
+10068,1012,2024-09-22,Beauty,Nail Polish,1,24.34,24.34,1.48,apple_pay,refunded
+10069,1012,2024-12-18,Books,Python Programming,1,40.45,40.45,5.91,credit_card,completed
+10070,1012,2023-12-15,Electronics,iPad Air,1,1641.92,1641.92,300.28,credit_card,completed
+10071,1012,2024-07-20,Clothing,Hoodie,1,153.56,153.56,0,google_pay,completed
+10072,1012,2024-07-20,Electronics,MacBook Pro,1,395.47,395.47,0,apple_pay,completed
+10073,1012,2024-07-20,Beauty,Face Cream,1,143.11,143.11,0,credit_card,completed
+10074,1012,2023-09-01,Sports,Resistance Bands,3,98.22,294.66,20.96,google_pay,completed
+10075,1012,2023-09-01,Books,Business Strategy,2,22.78,45.56,0,google_pay,completed
+10076,1012,2023-09-01,Electronics,Apple Watch,3,492.8,1478.4,0,paypal,completed
+10077,1012,2024-08-10,Clothing,Dress Shirt,3,33.88,101.64,16.14,apple_pay,completed
+10078,1012,2024-08-10,Home,Coffee Maker,1,159.16,159.16,0,paypal,completed
+10079,1012,2024-08-10,Beauty,Lipstick,1,76.15,76.15,0,apple_pay,cancelled
+10080,1012,2024-08-10,Books,Self Help Book,3,39.56,118.68,11.94,google_pay,refunded
+10081,1012,2023-09-19,Books,Self Help Book,3,26.42,79.26,9.29,paypal,completed
+10082,1012,2023-09-04,Home,Air Purifier,3,141.35,424.05,0,google_pay,completed
+10083,1012,2023-09-04,Beauty,Perfume,2,137.36,274.72,0,credit_card,completed
+10084,1012,2023-09-04,Books,Cookbook,2,37.19,74.38,0,apple_pay,completed
+10085,1012,2024-06-01,Electronics,iPad Air,2,649.8,1299.6,0,credit_card,completed
+10086,1012,2024-06-01,Sports,Yoga Mat,3,281.08,843.24,83.21,apple_pay,completed
+10087,1012,2024-06-01,Beauty,Face Cream,3,147.65,442.95,0,credit_card,completed
+10088,1012,2024-06-26,Books,Biography,1,33.04,33.04,0,apple_pay,completed
+10089,1015,2024-07-30,Beauty,Hair Serum,1,106.08,106.08,0,google_pay,completed
+10090,1015,2024-07-30,Beauty,Body Lotion,1,55.17,55.17,4.98,paypal,refunded
+10091,1015,2024-07-30,Electronics,Samsung Galaxy S24,3,596.51,1789.53,0,apple_pay,completed
+10092,1015,2024-07-30,Electronics,iPhone 15,1,2190.85,2190.85,339.46,apple_pay,completed
+10093,1015,2023-10-22,Home,Air Purifier,3,373.29,1119.87,114.29,apple_pay,completed
+10094,1015,2023-12-09,Beauty,Body Lotion,1,72.01,72.01,0,credit_card,completed
+10095,1015,2023-12-09,Books,Business Strategy,1,27.55,27.55,0,apple_pay,refunded
+10096,1015,2023-12-09,Beauty,Face Cream,1,103.3,103.3,5.91,apple_pay,cancelled
+10097,1015,2023-12-09,Beauty,Foundation,2,117.88,235.76,0,credit_card,completed
+10098,1016,2023-10-23,Home,Cookware Set,1,375.94,375.94,42.96,apple_pay,completed
+10099,1016,2023-11-07,Electronics,Sony Headphones,3,1648.55,4945.65,0,apple_pay,completed
+10100,1016,2024-01-31,Sports,Resistance Bands,2,230.83,461.66,0,apple_pay,completed
+10101,1016,2024-01-31,Clothing,Blue Jeans,2,88.83,177.66,0,google_pay,completed
+10102,1016,2024-11-29,Beauty,Face Cream,2,90.25,180.5,33.63,credit_card,completed
+10103,1017,2024-03-25,Beauty,Nail Polish,2,48.0,96.0,17.69,apple_pay,cancelled
+10104,1017,2024-03-25,Beauty,Lipstick,3,133.9,401.7,0,apple_pay,completed
+10105,1017,2024-03-25,Home,Cookware Set,1,36.59,36.59,0,paypal,completed
+10106,1017,2024-03-25,Home,Cookware Set,1,109.65,109.65,0,credit_card,completed
+10107,1018,2024-05-03,Clothing,Hoodie,2,64.92,129.84,10.07,apple_pay,completed
+10108,1018,2024-05-03,Clothing,Blue Jeans,3,52.62,157.86,24.53,paypal,completed
+10109,1018,2024-05-03,Home,Cookware Set,1,54.81,54.81,3.0,google_pay,completed
+10110,1018,2024-05-03,Beauty,Face Cream,2,45.47,90.94,0,google_pay,refunded
+10111,1018,2024-03-19,Clothing,Blue Jeans,1,178.55,178.55,0,google_pay,completed
+10112,1018,2024-03-19,Clothing,Running Shoes,3,185.95,557.85,0,google_pay,completed
+10113,1018,2024-03-19,Home,Towel Set,2,346.17,692.34,43.73,google_pay,completed
+10114,1018,2024-08-01,Clothing,Hoodie,1,60.57,60.57,6.84,paypal,completed
+10115,1018,2024-08-01,Electronics,MacBook Pro,2,1113.1,2226.2,0,google_pay,completed
+10116,1018,2024-08-01,Books,The Great Novel,3,32.83,98.49,0,credit_card,completed
+10117,1018,2024-09-28,Clothing,Cotton T-Shirt,3,154.35,463.05,0,paypal,completed
+10118,1018,2024-09-28,Electronics,MacBook Pro,1,1074.66,1074.66,180.38,google_pay,completed
+10119,1018,2024-09-28,Beauty,Face Cream,3,62.15,186.45,0,credit_card,completed
+10120,1018,2024-07-30,Clothing,Sneakers,2,118.04,236.08,0,apple_pay,completed
+10121,1018,2024-07-30,Sports,Water Bottle,3,291.28,873.84,0,google_pay,completed
+10122,1018,2024-07-30,Sports,Yoga Mat,3,29.3,87.9,8.87,paypal,completed
+10123,1018,2024-07-30,Electronics,Apple Watch,3,2372.73,7118.19,0,paypal,completed
+10124,1019,2024-10-21,Home,Table Lamp,1,272.22,272.22,19.25,google_pay,completed
+10125,1019,2024-10-21,Clothing,Blue Jeans,1,50.97,50.97,0,paypal,completed
+10126,1019,2024-10-21,Beauty,Foundation,1,102.76,102.76,0,apple_pay,completed
+10127,1021,2024-05-16,Books,Self Help Book,3,17.46,52.38,0,credit_card,completed
+10128,1021,2024-05-16,Electronics,Apple Watch,2,1569.0,3138.0,486.91,credit_card,completed
+10129,1021,2024-05-16,Clothing,Blue Jeans,3,56.41,169.23,0,paypal,refunded
+10130,1022,2024-03-04,Clothing,Running Shoes,3,98.0,294.0,0,credit_card,refunded
+10131,1022,2024-03-04,Clothing,Sneakers,3,53.91,161.73,26.51,google_pay,completed
+10132,1022,2024-05-01,Electronics,Apple Watch,2,1169.92,2339.84,0,credit_card,cancelled
+10133,1022,2024-05-01,Home,Air Purifier,2,198.06,396.12,0,credit_card,refunded
+10134,1022,2024-05-01,Sports,Tennis Racket,1,233.09,233.09,0,credit_card,completed
+10135,1022,2024-11-20,Beauty,Shampoo,2,52.9,105.8,5.94,paypal,refunded
+10136,1022,2024-11-20,Electronics,iPhone 15,2,844.47,1688.94,221.56,google_pay,completed
+10137,1022,2024-11-20,Books,Data Science Guide,1,31.7,31.7,2.55,google_pay,completed
+10138,1022,2024-11-20,Electronics,iPhone 15,2,1191.9,2383.8,465.62,google_pay,completed
+10139,1024,2024-11-09,Electronics,Apple Watch,1,1839.94,1839.94,115.21,google_pay,completed
+10140,1024,2024-11-09,Home,Cookware Set,1,141.18,141.18,0,apple_pay,completed
+10141,1024,2024-11-09,Home,Coffee Maker,2,386.17,772.34,0,apple_pay,completed
+10142,1024,2024-11-09,Sports,Tennis Racket,3,78.82,236.46,0,google_pay,completed
+10143,1024,2024-12-19,Books,Business Strategy,1,42.86,42.86,0,credit_card,completed
+10144,1024,2024-12-19,Electronics,Sony Headphones,1,861.6,861.6,129.08,apple_pay,refunded
+10145,1024,2024-07-07,Home,Vacuum Cleaner,1,280.3,280.3,40.77,google_pay,refunded
+10146,1024,2024-07-07,Sports,Dumbbells,3,191.87,575.61,0,apple_pay,completed
+10147,1024,2024-07-07,Beauty,Shampoo,3,94.31,282.93,0,paypal,completed
+10148,1024,2024-07-08,Clothing,Running Shoes,3,192.82,578.46,111.11,paypal,cancelled
+10149,1024,2024-07-08,Home,Coffee Maker,2,225.7,451.4,0,paypal,completed
+10150,1024,2024-07-08,Electronics,Dell XPS,1,472.11,472.11,83.68,google_pay,completed
+10151,1025,2023-11-25,Home,Table Lamp,2,348.52,697.04,75.67,apple_pay,completed
+10152,1028,2024-07-19,Home,Towel Set,2,246.13,492.26,83.5,apple_pay,completed
+10153,1028,2024-07-19,Clothing,Sneakers,1,97.59,97.59,0,apple_pay,cancelled
+10154,1028,2024-07-19,Books,Biography,3,32.79,98.37,0,credit_card,refunded
+10155,1028,2024-07-19,Books,Business Strategy,2,14.06,28.12,0,credit_card,completed
+10156,1028,2024-03-17,Sports,Resistance Bands,3,275.45,826.35,0,apple_pay,completed
+10157,1028,2024-03-24,Books,Data Science Guide,2,40.46,80.92,0,apple_pay,completed
+10158,1028,2024-03-24,Books,Data Science Guide,1,43.14,43.14,0,apple_pay,completed
+10159,1030,2024-12-27,Clothing,Sneakers,3,124.93,374.79,0,credit_card,completed
+10160,1030,2024-12-27,Home,Coffee Maker,3,381.85,1145.55,0,paypal,completed
+10161,1031,2024-01-26,Books,Python Programming,2,40.07,80.14,6.57,google_pay,completed
+10162,1031,2024-01-26,Sports,Gym Bag,1,201.81,201.81,0,credit_card,completed
+10163,1031,2023-12-20,Sports,Dumbbells,2,282.0,564.0,106.01,credit_card,completed
+10164,1031,2023-09-22,Home,Towel Set,1,367.98,367.98,0,paypal,completed
+10165,1032,2024-08-15,Beauty,Perfume,3,134.79,404.37,0,google_pay,refunded
+10166,1032,2024-08-15,Home,Table Lamp,3,269.68,809.04,0,google_pay,completed
+10167,1032,2024-08-15,Clothing,Running Shoes,3,187.08,561.24,0,google_pay,completed
+10168,1032,2024-06-22,Beauty,Lipstick,1,135.98,135.98,0,google_pay,completed
+10169,1032,2024-06-22,Books,Mystery Novel,2,16.53,33.06,0,credit_card,completed
+10170,1032,2024-06-22,Beauty,Face Cream,3,107.94,323.82,55.71,credit_card,refunded
+10171,1032,2024-12-03,Home,Cookware Set,3,221.08,663.24,36.78,google_pay,refunded
+10172,1032,2024-07-04,Beauty,Lipstick,1,54.36,54.36,0,paypal,completed
+10173,1032,2024-07-04,Electronics,Apple Watch,1,1628.27,1628.27,0,credit_card,completed
+10174,1032,2024-06-12,Books,Python Programming,2,48.74,97.48,7.78,apple_pay,completed
+10175,1032,2024-06-12,Home,Vacuum Cleaner,3,315.96,947.88,0,paypal,completed
+10176,1033,2024-06-28,Clothing,Sneakers,1,148.44,148.44,15.27,paypal,completed
+10177,1033,2024-06-28,Clothing,Running Shoes,1,46.14,46.14,0,paypal,completed
+10178,1033,2024-06-28,Beauty,Foundation,3,94.66,283.98,0,google_pay,completed
+10179,1033,2024-06-28,Beauty,Foundation,2,42.89,85.78,0,apple_pay,completed
+10180,1033,2024-08-23,Books,Biography,1,45.3,45.3,0,paypal,completed
+10181,1034,2024-11-27,Sports,Water Bottle,1,232.12,232.12,40.5,credit_card,completed
+10182,1034,2024-11-27,Electronics,iPhone 15,2,573.3,1146.6,0,paypal,completed
+10183,1034,2024-11-27,Sports,Running Belt,3,40.46,121.38,18.2,google_pay,completed
+10184,1034,2024-11-27,Beauty,Perfume,3,129.76,389.28,47.4,apple_pay,completed
+10185,1034,2024-11-12,Clothing,Cotton T-Shirt,1,195.79,195.79,13.95,credit_card,completed
+10186,1034,2024-11-12,Beauty,Shampoo,3,52.01,156.03,15.9,paypal,cancelled
+10187,1034,2024-11-22,Clothing,Sneakers,2,29.29,58.58,0,apple_pay,completed
+10188,1034,2024-11-22,Clothing,Sneakers,3,27.88,83.64,0,google_pay,completed
+10189,1034,2024-10-27,Electronics,Samsung Galaxy S24,3,420.93,1262.79,0,apple_pay,completed
+10190,1034,2024-10-27,Electronics,Dell XPS,1,1367.25,1367.25,0,apple_pay,completed
+10191,1034,2024-12-07,Beauty,Body Lotion,1,13.86,13.86,0,google_pay,completed
+10192,1034,2024-11-26,Books,The Great Novel,3,40.38,121.14,0,google_pay,completed
+10193,1034,2024-11-26,Beauty,Body Lotion,2,20.67,41.34,6.97,apple_pay,completed
+10194,1034,2024-10-24,Sports,Dumbbells,1,281.05,281.05,0,google_pay,completed
+10195,1034,2024-10-24,Beauty,Perfume,1,22.62,22.62,3.42,apple_pay,completed
+10196,1034,2024-10-24,Electronics,Samsung Galaxy S24,3,1884.97,5654.91,0,apple_pay,completed
+10197,1034,2024-12-24,Sports,Water Bottle,2,243.58,487.16,0,paypal,completed
+10198,1034,2024-12-24,Electronics,Sony Headphones,1,1255.11,1255.11,0,google_pay,completed
+10199,1034,2024-12-24,Electronics,MacBook Pro,3,1754.59,5263.77,0,paypal,completed
+10200,1034,2024-12-24,Sports,Tennis Racket,3,137.12,411.36,45.47,google_pay,completed
+10201,1036,2024-08-25,Electronics,Kindle,1,462.23,462.23,0,paypal,completed
+10202,1036,2024-08-25,Electronics,MacBook Pro,1,1262.27,1262.27,0,google_pay,completed
+10203,1036,2024-08-25,Home,Towel Set,3,230.54,691.62,0,paypal,completed
+10204,1036,2024-08-25,Beauty,Perfume,1,27.79,27.79,0,apple_pay,completed
+10205,1036,2024-11-12,Clothing,Blue Jeans,3,139.98,419.94,61.12,credit_card,completed
+10206,1036,2024-11-12,Clothing,Blue Jeans,1,40.79,40.79,0,apple_pay,completed
+10207,1036,2024-11-12,Books,Biography,2,48.73,97.46,0,apple_pay,completed
+10208,1036,2024-11-05,Electronics,iPhone 15,1,607.62,607.62,72.7,google_pay,completed
+10209,1036,2024-11-05,Books,Biography,2,31.9,63.8,0,credit_card,refunded
+10210,1036,2024-11-05,Books,Business Strategy,2,44.62,89.24,0,apple_pay,cancelled
+10211,1036,2024-11-05,Home,Coffee Maker,1,179.48,179.48,0,google_pay,completed
+10212,1036,2024-06-14,Electronics,Apple Watch,2,1542.1,3084.2,0,google_pay,refunded
+10213,1036,2024-06-14,Electronics,Samsung Galaxy S24,3,1542.95,4628.85,0,google_pay,completed
+10214,1036,2024-11-21,Home,Air Purifier,1,286.05,286.05,0,paypal,completed
+10215,1036,2024-11-21,Home,Cookware Set,1,88.76,88.76,0,paypal,completed
+10216,1037,2024-12-15,Home,Air Purifier,1,344.73,344.73,0,apple_pay,refunded
+10217,1037,2024-12-15,Sports,Gym Bag,2,277.02,554.04,0,apple_pay,completed
+10218,1037,2024-12-15,Home,Table Lamp,2,304.77,609.54,0,credit_card,completed
+10219,1037,2024-12-15,Home,Blender,2,239.67,479.34,0,paypal,completed
+10220,1040,2024-10-28,Home,Towel Set,2,112.77,225.54,40.95,paypal,completed
+10221,1040,2024-10-28,Clothing,Cotton T-Shirt,1,125.8,125.8,0,google_pay,completed
+10222,1040,2024-10-28,Beauty,Foundation,3,103.65,310.95,0,apple_pay,completed
+10223,1040,2024-10-21,Clothing,Running Shoes,1,193.12,193.12,31.68,credit_card,completed
+10224,1040,2024-10-14,Electronics,Kindle,1,1352.65,1352.65,0,apple_pay,completed
+10225,1040,2024-10-14,Clothing,Dress Shirt,3,146.76,440.28,0,paypal,completed
+10226,1042,2024-12-11,Electronics,Dell XPS,1,393.4,393.4,0,apple_pay,completed
+10227,1042,2024-12-11,Books,Python Programming,1,37.94,37.94,0,credit_card,completed
+10228,1042,2024-11-12,Beauty,Body Lotion,1,30.68,30.68,0,google_pay,completed
+10229,1042,2024-11-12,Home,Bed Sheets,2,224.64,449.28,0,apple_pay,completed
+10230,1042,2024-10-27,Electronics,Apple Watch,1,2328.94,2328.94,0,apple_pay,refunded
+10231,1042,2024-10-27,Beauty,Body Lotion,3,52.87,158.61,0,google_pay,completed
+10232,1042,2024-10-27,Clothing,Winter Jacket,1,59.11,59.11,0,paypal,completed
+10233,1042,2024-10-27,Home,Vacuum Cleaner,1,335.66,335.66,0,paypal,completed
+10234,1043,2024-08-02,Clothing,Cotton T-Shirt,2,101.35,202.7,0,credit_card,completed
+10235,1044,2024-08-31,Home,Air Purifier,3,195.78,587.34,0,google_pay,completed
+10236,1044,2024-09-01,Electronics,iPad Air,3,1856.26,5568.78,0,google_pay,completed
+10237,1044,2024-05-18,Clothing,Winter Jacket,3,138.28,414.84,0,credit_card,completed
+10238,1047,2024-09-18,Home,Air Purifier,1,140.78,140.78,8.27,apple_pay,completed
+10239,1047,2024-09-18,Electronics,MacBook Pro,1,2092.15,2092.15,0,google_pay,completed
+10240,1047,2024-09-18,Home,Vacuum Cleaner,2,307.09,614.18,100.16,paypal,completed
+10241,1047,2024-09-18,Clothing,Running Shoes,3,197.92,593.76,0,paypal,completed
+10242,1048,2024-03-12,Clothing,Sneakers,2,122.25,244.5,0,credit_card,completed
+10243,1048,2024-02-17,Electronics,Dell XPS,1,857.01,857.01,0,credit_card,completed
+10244,1048,2024-02-17,Beauty,Hair Serum,2,62.03,124.06,14.35,google_pay,completed
+10245,1048,2023-12-25,Home,Air Purifier,3,49.97,149.91,0,credit_card,completed
+10246,1048,2023-12-25,Electronics,MacBook Pro,1,1915.38,1915.38,0,google_pay,completed
+10247,1048,2023-12-25,Clothing,Cotton T-Shirt,1,58.02,58.02,11.18,paypal,completed
+10248,1049,2024-06-28,Books,Python Programming,3,41.38,124.14,23.29,google_pay,completed
+10249,1049,2024-06-28,Beauty,Lipstick,1,102.68,102.68,0,apple_pay,completed
+10250,1049,2024-06-28,Electronics,Kindle,3,1208.89,3626.67,540.68,credit_card,completed
+10251,1049,2024-03-07,Beauty,Nail Polish,2,125.0,250.0,0,paypal,completed
+10252,1049,2024-03-07,Home,Coffee Maker,2,162.11,324.22,0,google_pay,completed
+10253,1049,2024-03-07,Clothing,Sweater,3,45.7,137.1,0,paypal,refunded
+10254,1049,2024-03-07,Clothing,Sneakers,3,26.22,78.66,13.16,google_pay,completed
+10255,1049,2024-01-02,Beauty,Perfume,3,111.28,333.84,0,paypal,completed
+10256,1049,2024-01-02,Beauty,Foundation,2,90.56,181.12,30.64,credit_card,completed
+10257,1049,2024-01-02,Electronics,iPhone 15,1,1467.01,1467.01,82.58,google_pay,completed
+10258,1051,2024-05-13,Beauty,Shampoo,2,129.14,258.28,31.69,paypal,completed
+10259,1051,2024-04-19,Home,Blender,3,388.5,1165.5,0,paypal,completed
+10260,1051,2024-04-19,Sports,Resistance Bands,3,266.55,799.65,99.24,paypal,completed
+10261,1051,2024-11-04,Books,Self Help Book,1,17.81,17.81,0,apple_pay,completed
+10262,1051,2024-11-04,Home,Vacuum Cleaner,1,70.81,70.81,0,apple_pay,completed
+10263,1051,2024-11-04,Sports,Gym Bag,1,273.09,273.09,13.72,paypal,completed
+10264,1051,2024-11-04,Clothing,Dress Shirt,2,73.37,146.74,25.68,google_pay,completed
+10265,1051,2024-03-18,Electronics,Sony Headphones,2,344.78,689.56,0,google_pay,completed
+10266,1051,2024-03-18,Sports,Resistance Bands,1,188.83,188.83,14.81,google_pay,completed
+10267,1051,2024-03-18,Home,Vacuum Cleaner,2,187.04,374.08,0,apple_pay,completed
+10268,1052,2024-08-19,Clothing,Dress Shirt,1,100.42,100.42,0,paypal,completed
+10269,1052,2024-08-19,Clothing,Sneakers,3,46.65,139.95,0,apple_pay,completed
+10270,1052,2024-08-19,Sports,Dumbbells,1,244.9,244.9,0,paypal,completed
+10271,1052,2024-08-19,Clothing,Dress Shirt,1,31.84,31.84,6.15,paypal,completed
+10272,1053,2024-12-17,Clothing,Sneakers,2,155.34,310.68,34.28,google_pay,completed
+10273,1053,2024-12-29,Beauty,Hair Serum,1,125.25,125.25,18.74,credit_card,refunded
+10274,1053,2024-12-29,Books,Biography,1,22.41,22.41,0,apple_pay,completed
+10275,1056,2024-10-02,Clothing,Cotton T-Shirt,3,38.25,114.75,0,credit_card,completed
+10276,1056,2024-08-28,Home,Air Purifier,3,345.55,1036.65,0,paypal,completed
+10277,1056,2024-09-16,Electronics,MacBook Pro,1,1117.65,1117.65,0,credit_card,completed
+10278,1056,2024-09-16,Beauty,Body Lotion,3,33.05,99.15,0,google_pay,completed
+10279,1056,2024-08-17,Home,Coffee Maker,1,311.52,311.52,0,credit_card,completed
+10280,1056,2024-08-17,Books,Self Help Book,2,39.0,78.0,11.78,google_pay,completed
+10281,1056,2024-08-17,Clothing,Sweater,2,133.89,267.78,0,apple_pay,completed
+10282,1056,2024-08-17,Beauty,Hair Serum,3,67.04,201.12,22.1,credit_card,completed
+10283,1056,2024-08-14,Beauty,Lipstick,1,52.58,52.58,0,google_pay,completed
+10284,1056,2024-08-14,Clothing,Running Shoes,1,53.8,53.8,0,credit_card,completed
+10285,1056,2024-08-14,Home,Vacuum Cleaner,3,122.59,367.77,0,apple_pay,cancelled
+10286,1056,2024-08-14,Beauty,Nail Polish,3,137.63,412.89,0,credit_card,completed
+10287,1057,2023-11-19,Books,Cookbook,1,42.02,42.02,0,apple_pay,completed
+10288,1060,2024-12-19,Beauty,Lipstick,3,107.67,323.01,0,credit_card,completed
+10289,1060,2024-05-31,Books,Biography,2,9.84,19.68,0,credit_card,completed
+10290,1060,2024-05-31,Electronics,iPhone 15,2,2358.74,4717.48,617.45,google_pay,completed
+10291,1060,2024-12-17,Electronics,iPhone 15,2,1688.98,3377.96,0,paypal,completed
+10292,1060,2024-12-17,Sports,Tennis Racket,3,216.58,649.74,86.4,google_pay,completed
+10293,1061,2024-03-25,Beauty,Face Cream,1,73.8,73.8,0,google_pay,completed
+10294,1061,2024-03-25,Books,Business Strategy,1,16.09,16.09,0,google_pay,completed
+10295,1061,2024-11-01,Clothing,Sweater,2,181.02,362.04,0,credit_card,completed
+10296,1061,2024-11-01,Beauty,Hair Serum,1,66.48,66.48,0,apple_pay,completed
+10297,1062,2024-02-09,Electronics,Samsung Galaxy S24,1,640.12,640.12,0,paypal,completed
+10298,1062,2024-12-05,Electronics,Dell XPS,2,2273.97,4547.94,0,credit_card,completed
+10299,1062,2024-12-05,Sports,Water Bottle,2,216.14,432.28,82.63,google_pay,completed
+10300,1064,2024-09-17,Books,Python Programming,3,10.74,32.22,5.11,paypal,completed
+10301,1064,2024-09-17,Electronics,Samsung Galaxy S24,3,2088.08,6264.24,0,paypal,completed
+10302,1064,2024-09-17,Books,Cookbook,2,13.67,27.34,4.22,google_pay,completed
+10303,1064,2024-09-17,Sports,Tennis Racket,3,211.75,635.25,0,credit_card,completed
+10304,1064,2024-08-22,Beauty,Hair Serum,2,62.5,125.0,13.74,paypal,completed
+10305,1064,2024-08-22,Sports,Resistance Bands,3,250.56,751.68,0,apple_pay,completed
+10306,1064,2024-07-13,Home,Cookware Set,1,251.87,251.87,0,credit_card,completed
+10307,1064,2024-07-13,Books,Self Help Book,1,32.17,32.17,0,google_pay,completed
+10308,1066,2023-07-21,Sports,Gym Bag,2,182.64,365.28,21.71,google_pay,completed
+10309,1066,2023-07-21,Books,The Great Novel,3,9.15,27.45,3.26,google_pay,completed
+10310,1066,2024-07-27,Sports,Resistance Bands,3,190.46,571.38,0,credit_card,completed
+10311,1066,2024-07-27,Sports,Tennis Racket,3,242.76,728.28,48.71,apple_pay,completed
+10312,1066,2024-07-27,Books,Mystery Novel,1,24.95,24.95,0,credit_card,completed
+10313,1067,2024-12-08,Home,Coffee Maker,2,136.31,272.62,0,google_pay,completed
+10314,1067,2024-12-08,Electronics,iPad Air,1,559.19,559.19,30.59,google_pay,completed
+10315,1067,2024-12-08,Electronics,Apple Watch,2,936.73,1873.46,0,paypal,completed
+10316,1067,2024-12-08,Home,Table Lamp,2,221.43,442.86,22.18,paypal,completed
+10317,1067,2024-11-08,Home,Towel Set,2,275.7,551.4,0,google_pay,completed
+10318,1067,2024-11-15,Beauty,Shampoo,3,59.63,178.89,15.29,google_pay,completed
+10319,1067,2024-11-15,Home,Coffee Maker,1,29.23,29.23,0,google_pay,completed
+10320,1067,2024-11-15,Beauty,Hair Serum,1,93.13,93.13,12.99,credit_card,completed
+10321,1067,2024-09-12,Books,Self Help Book,1,31.32,31.32,2.47,apple_pay,completed
+10322,1067,2024-09-12,Books,Cookbook,3,11.07,33.21,6.21,credit_card,refunded
+10323,1067,2024-09-12,Sports,Water Bottle,1,132.7,132.7,0,credit_card,completed
+10324,1068,2024-03-12,Books,Mystery Novel,3,13.92,41.76,0,apple_pay,refunded
+10325,1068,2024-03-12,Home,Vacuum Cleaner,3,249.26,747.78,0,apple_pay,completed
+10326,1068,2024-04-03,Sports,Gym Bag,2,61.81,123.62,13.19,paypal,completed
+10327,1068,2024-04-03,Electronics,iPad Air,2,1643.82,3287.64,0,apple_pay,completed
+10328,1068,2024-04-03,Books,Data Science Guide,1,46.56,46.56,0,apple_pay,completed
+10329,1068,2024-04-03,Clothing,Cotton T-Shirt,3,135.55,406.65,0,apple_pay,completed
+10330,1069,2024-03-24,Home,Towel Set,2,141.32,282.64,0,apple_pay,completed
+10331,1069,2024-03-24,Sports,Tennis Racket,3,139.13,417.39,0,paypal,completed
+10332,1069,2024-03-24,Sports,Tennis Racket,2,16.73,33.46,6.54,apple_pay,completed
+10333,1069,2024-03-24,Clothing,Winter Jacket,1,145.27,145.27,20.25,paypal,completed
+10334,1069,2024-06-21,Clothing,Running Shoes,1,186.49,186.49,0,google_pay,completed
+10335,1069,2024-06-21,Clothing,Running Shoes,3,193.58,580.74,0,apple_pay,completed
+10336,1069,2024-06-21,Sports,Tennis Racket,3,113.41,340.23,0,apple_pay,completed
+10337,1069,2024-06-21,Clothing,Running Shoes,3,139.35,418.05,0,paypal,completed
+10338,1069,2024-05-14,Electronics,Apple Watch,1,2449.5,2449.5,0,credit_card,completed
+10339,1069,2024-05-14,Books,Python Programming,1,22.44,22.44,0,credit_card,completed
+10340,1069,2024-05-14,Home,Table Lamp,3,63.32,189.96,0,google_pay,completed
+10341,1069,2023-06-25,Home,Air Purifier,2,314.78,629.56,0,apple_pay,completed
+10342,1069,2023-06-25,Electronics,Kindle,1,1083.1,1083.1,0,google_pay,completed
+10343,1070,2024-12-28,Home,Table Lamp,3,104.17,312.51,0,credit_card,completed
+10344,1070,2024-12-28,Clothing,Cotton T-Shirt,1,114.37,114.37,0,credit_card,completed
+10345,1070,2024-12-16,Clothing,Running Shoes,2,187.54,375.08,0,paypal,completed
+10346,1070,2024-12-16,Sports,Dumbbells,2,240.61,481.22,0,credit_card,completed
+10347,1070,2024-12-14,Sports,Gym Bag,1,104.74,104.74,0,google_pay,completed
+10348,1070,2024-12-14,Beauty,Perfume,2,56.76,113.52,0,paypal,refunded
+10349,1070,2024-12-14,Books,The Great Novel,1,29.48,29.48,3.05,paypal,completed
+10350,1070,2024-12-05,Home,Bed Sheets,2,61.42,122.84,0,paypal,completed
+10351,1070,2024-12-05,Sports,Gym Bag,3,279.73,839.19,70.22,paypal,completed
+10352,1070,2024-12-05,Sports,Basketball,2,193.67,387.34,0,apple_pay,cancelled
+10353,1071,2024-03-03,Sports,Yoga Mat,3,25.49,76.47,0,apple_pay,completed
+10354,1071,2024-08-09,Clothing,Blue Jeans,3,182.07,546.21,83.33,credit_card,completed
+10355,1071,2024-08-09,Beauty,Shampoo,3,93.44,280.32,0,apple_pay,completed
+10356,1071,2024-08-09,Clothing,Dress Shirt,2,68.85,137.7,22.92,google_pay,completed
+10357,1071,2024-08-09,Sports,Resistance Bands,2,63.48,126.96,13.41,google_pay,completed
+10358,1071,2024-06-18,Beauty,Body Lotion,3,29.32,87.96,0,credit_card,completed
+10359,1071,2024-06-18,Clothing,Running Shoes,1,98.4,98.4,0,credit_card,completed
+10360,1071,2024-06-18,Clothing,Dress Shirt,3,116.28,348.84,0,google_pay,refunded
+10361,1073,2024-02-18,Books,The Great Novel,2,39.02,78.04,0,apple_pay,refunded
+10362,1073,2024-05-17,Electronics,Sony Headphones,1,1235.0,1235.0,91.37,credit_card,cancelled
+10363,1073,2024-05-17,Electronics,MacBook Pro,3,777.8,2333.4,0,apple_pay,completed
+10364,1073,2024-05-17,Books,Python Programming,1,32.12,32.12,0,credit_card,cancelled
+10365,1073,2024-02-12,Home,Coffee Maker,1,302.02,302.02,0,paypal,refunded
+10366,1073,2024-02-12,Electronics,Kindle,2,1568.6,3137.2,0,google_pay,completed
+10367,1073,2024-02-12,Books,Business Strategy,1,41.92,41.92,0,apple_pay,completed
+10368,1073,2024-07-11,Beauty,Nail Polish,3,13.63,40.89,4.0,google_pay,completed
+10369,1073,2024-09-27,Beauty,Shampoo,1,90.87,90.87,5.63,paypal,completed
+10370,1074,2024-11-24,Home,Vacuum Cleaner,3,349.47,1048.41,0,google_pay,completed
+10371,1074,2024-11-24,Electronics,iPhone 15,3,1467.46,4402.38,746.82,credit_card,completed
+10372,1074,2024-11-24,Electronics,Sony Headphones,2,433.19,866.38,0,google_pay,completed
+10373,1074,2024-11-24,Clothing,Hoodie,1,182.04,182.04,30.81,paypal,completed
+10374,1074,2024-10-19,Books,Data Science Guide,2,12.15,24.3,0,google_pay,completed
+10375,1074,2024-10-19,Sports,Tennis Racket,1,115.32,115.32,6.81,apple_pay,completed
+10376,1074,2024-10-19,Sports,Resistance Bands,2,40.66,81.32,0,paypal,completed
+10377,1074,2024-10-19,Electronics,iPad Air,2,2103.9,4207.8,0,paypal,completed
+10378,1076,2024-04-18,Home,Blender,1,169.54,169.54,0,credit_card,refunded
+10379,1076,2024-04-18,Beauty,Lipstick,3,136.81,410.43,0,credit_card,completed
+10380,1076,2024-04-18,Clothing,Hoodie,3,87.08,261.24,0,apple_pay,refunded
+10381,1076,2024-03-23,Sports,Dumbbells,2,244.26,488.52,0,google_pay,completed
+10382,1076,2024-03-23,Electronics,iPhone 15,1,1670.59,1670.59,0,apple_pay,refunded
+10383,1076,2024-12-04,Home,Table Lamp,2,335.45,670.9,0,credit_card,completed
+10384,1076,2024-12-04,Electronics,Dell XPS,3,1531.48,4594.44,0,paypal,completed
+10385,1076,2024-09-13,Home,Vacuum Cleaner,2,184.29,368.58,0,credit_card,refunded
+10386,1076,2024-05-28,Beauty,Perfume,3,49.07,147.21,0,paypal,completed
+10387,1076,2024-05-28,Sports,Resistance Bands,1,278.14,278.14,0,credit_card,completed
+10388,1076,2024-05-28,Books,Cookbook,2,19.41,38.82,7.28,credit_card,completed
+10389,1076,2024-09-19,Clothing,Dress Shirt,3,110.65,331.95,59.98,apple_pay,completed
+10390,1076,2024-09-19,Electronics,Dell XPS,2,1481.8,2963.6,208.54,google_pay,completed
+10391,1076,2024-11-18,Clothing,Blue Jeans,3,193.21,579.63,112.44,credit_card,cancelled
+10392,1076,2024-11-18,Books,Self Help Book,3,39.63,118.89,0,paypal,completed
+10393,1076,2024-11-18,Sports,Dumbbells,3,155.13,465.39,0,apple_pay,completed
+10394,1077,2024-11-22,Beauty,Foundation,1,67.44,67.44,7.92,credit_card,completed
+10395,1077,2024-11-22,Clothing,Blue Jeans,3,21.24,63.72,12.19,google_pay,completed
+10396,1080,2024-07-02,Clothing,Running Shoes,2,42.98,85.96,0,credit_card,completed
+10397,1081,2024-12-08,Electronics,MacBook Pro,1,2266.77,2266.77,0,apple_pay,completed
+10398,1081,2024-12-08,Books,Cookbook,1,9.29,9.29,0.56,google_pay,completed
+10399,1081,2024-12-08,Beauty,Perfume,1,89.41,89.41,0,paypal,completed
+10400,1084,2023-06-22,Electronics,Kindle,3,1654.48,4963.44,0,paypal,completed
+10401,1085,2023-06-08,Home,Towel Set,1,246.33,246.33,29.86,apple_pay,completed
+10402,1085,2023-06-08,Sports,Gym Bag,1,67.07,67.07,0,apple_pay,cancelled
+10403,1085,2023-03-12,Clothing,Dress Shirt,1,66.7,66.7,9.8,google_pay,completed
+10404,1085,2023-03-12,Electronics,Samsung Galaxy S24,3,2121.56,6364.68,0,google_pay,completed
+10405,1085,2024-12-26,Electronics,Apple Watch,1,409.57,409.57,0,google_pay,completed
+10406,1085,2024-12-26,Beauty,Lipstick,1,139.99,139.99,0,apple_pay,completed
+10407,1085,2024-12-26,Clothing,Hoodie,2,148.86,297.72,0,google_pay,completed
+10408,1085,2024-12-26,Sports,Yoga Mat,1,111.27,111.27,0,credit_card,completed
+10409,1086,2024-06-24,Books,Business Strategy,1,22.34,22.34,4.35,google_pay,completed
+10410,1087,2024-09-02,Sports,Water Bottle,1,68.82,68.82,10.2,credit_card,completed
+10411,1087,2024-09-02,Electronics,Dell XPS,3,2087.59,6262.77,0,google_pay,completed
+10412,1087,2024-11-06,Beauty,Hair Serum,2,31.53,63.06,0,apple_pay,completed
+10413,1088,2023-12-08,Beauty,Perfume,3,67.83,203.49,0,paypal,completed
+10414,1088,2023-12-08,Sports,Dumbbells,2,251.92,503.84,0,google_pay,completed
+10415,1088,2023-12-08,Electronics,MacBook Pro,1,1970.07,1970.07,0,paypal,completed
+10416,1088,2024-02-24,Home,Vacuum Cleaner,1,268.74,268.74,0,paypal,completed
+10417,1088,2024-02-24,Sports,Basketball,1,55.3,55.3,10.53,apple_pay,completed
+10418,1089,2024-12-09,Beauty,Nail Polish,2,133.01,266.02,0,paypal,completed
+10419,1089,2024-12-09,Books,Mystery Novel,2,12.77,25.54,3.08,google_pay,completed
+10420,1089,2024-12-09,Sports,Basketball,3,173.24,519.72,78.77,apple_pay,completed
+10421,1089,2023-06-19,Sports,Resistance Bands,1,123.56,123.56,0,credit_card,completed
+10422,1089,2023-06-19,Home,Blender,1,327.01,327.01,0,apple_pay,completed
+10423,1089,2023-06-19,Beauty,Hair Serum,2,77.62,155.24,0,google_pay,completed
+10424,1089,2024-11-18,Clothing,Sweater,2,198.84,397.68,49.72,google_pay,completed
+10425,1089,2024-11-18,Home,Coffee Maker,3,306.2,918.6,0,credit_card,completed
+10426,1089,2024-12-18,Sports,Yoga Mat,2,97.81,195.62,13.61,credit_card,completed
+10427,1089,2023-09-23,Books,Business Strategy,2,33.32,66.64,4.61,apple_pay,completed
+10428,1089,2024-12-05,Home,Table Lamp,3,190.71,572.13,0,paypal,refunded
+10429,1089,2024-12-05,Electronics,Dell XPS,3,2423.02,7269.06,0,paypal,completed
+10430,1089,2024-01-15,Beauty,Face Cream,1,21.03,21.03,0,google_pay,completed
+10431,1089,2024-01-15,Beauty,Lipstick,1,61.22,61.22,0,paypal,completed
+10432,1089,2024-04-15,Electronics,iPhone 15,1,1505.8,1505.8,0,google_pay,completed
+10433,1090,2023-12-01,Clothing,Winter Jacket,3,19.87,59.61,0,credit_card,completed
+10434,1090,2023-12-01,Electronics,Sony Headphones,1,1192.63,1192.63,0,credit_card,completed
+10435,1090,2023-12-01,Books,Data Science Guide,1,14.55,14.55,0,google_pay,refunded
+10436,1090,2023-12-01,Beauty,Face Cream,2,13.22,26.44,2.66,credit_card,completed
+10437,1091,2024-02-06,Books,Self Help Book,2,18.8,37.6,0,apple_pay,refunded
+10438,1091,2024-02-06,Beauty,Foundation,1,71.53,71.53,11.33,google_pay,completed
+10439,1091,2024-02-06,Electronics,Samsung Galaxy S24,3,2240.24,6720.72,0,apple_pay,completed
+10440,1091,2024-02-06,Beauty,Perfume,2,80.67,161.34,31.37,credit_card,completed
+10441,1091,2023-12-03,Beauty,Perfume,3,13.65,40.95,0,paypal,completed
+10442,1091,2023-12-03,Home,Bed Sheets,2,40.09,80.18,0,apple_pay,refunded
+10443,1092,2024-07-23,Sports,Basketball,2,137.67,275.34,0,credit_card,completed
+10444,1092,2024-07-23,Sports,Running Belt,2,265.27,530.54,91.0,credit_card,completed
+10445,1092,2024-07-23,Beauty,Lipstick,1,101.41,101.41,0,apple_pay,completed
+10446,1092,2024-07-04,Clothing,Hoodie,1,25.06,25.06,0,google_pay,completed
+10447,1092,2024-01-30,Beauty,Body Lotion,1,76.06,76.06,7.89,google_pay,cancelled
+10448,1092,2024-01-30,Home,Vacuum Cleaner,1,156.44,156.44,0,credit_card,completed
+10449,1092,2024-01-30,Clothing,Winter Jacket,3,190.08,570.24,0,credit_card,completed
+10450,1092,2024-04-06,Electronics,MacBook Pro,3,2443.02,7329.06,0,google_pay,completed
+10451,1092,2024-04-06,Electronics,iPhone 15,1,1321.23,1321.23,0,google_pay,completed
+10452,1092,2024-04-06,Books,The Great Novel,1,12.41,12.41,0,google_pay,completed
+10453,1092,2024-04-06,Electronics,iPhone 15,1,1890.49,1890.49,144.37,paypal,cancelled
+10454,1092,2024-01-30,Electronics,iPad Air,1,574.21,574.21,0,apple_pay,completed
+10455,1092,2024-01-30,Electronics,Kindle,3,1243.64,3730.92,312.12,apple_pay,completed
+10456,1092,2024-01-30,Home,Bed Sheets,3,46.02,138.06,20.47,google_pay,completed
+10457,1092,2024-01-30,Books,Business Strategy,3,20.99,62.97,3.39,apple_pay,completed
+10458,1092,2024-08-23,Electronics,iPad Air,2,1881.19,3762.38,742.9,apple_pay,refunded
+10459,1092,2024-08-23,Books,Data Science Guide,2,18.4,36.8,0,google_pay,completed
+10460,1092,2024-03-22,Sports,Running Belt,1,282.02,282.02,45.81,google_pay,completed
+10461,1092,2024-03-22,Beauty,Lipstick,2,74.07,148.14,0,google_pay,completed
+10462,1092,2024-03-22,Beauty,Hair Serum,2,139.67,279.34,53.89,apple_pay,completed
+10463,1092,2024-03-22,Electronics,Kindle,2,2174.06,4348.12,0,apple_pay,completed
+10464,1093,2024-10-17,Books,Cookbook,1,35.5,35.5,0,apple_pay,completed
+10465,1093,2024-10-17,Electronics,iPhone 15,2,2443.93,4887.86,0,google_pay,completed
+10466,1093,2024-10-17,Home,Vacuum Cleaner,1,116.06,116.06,19.93,apple_pay,completed
+10467,1093,2024-01-08,Beauty,Hair Serum,3,32.87,98.61,0,google_pay,completed
+10468,1093,2024-01-08,Home,Cookware Set,1,161.06,161.06,0,google_pay,completed
+10469,1093,2024-01-08,Beauty,Perfume,2,100.07,200.14,0,google_pay,completed
+10470,1093,2024-01-08,Clothing,Winter Jacket,3,45.42,136.26,0,google_pay,completed
+10471,1094,2024-07-14,Home,Air Purifier,2,279.55,559.1,69.92,paypal,completed
+10472,1094,2024-07-14,Beauty,Shampoo,3,82.8,248.4,0,credit_card,completed
+10473,1096,2024-07-04,Books,Self Help Book,1,22.89,22.89,0,credit_card,completed
+10474,1096,2024-07-04,Clothing,Winter Jacket,1,165.73,165.73,0,apple_pay,completed
+10475,1096,2024-07-04,Electronics,MacBook Pro,1,2198.02,2198.02,0,apple_pay,completed
+10476,1096,2024-07-04,Sports,Gym Bag,1,248.96,248.96,0,google_pay,completed
+10477,1096,2024-10-28,Electronics,Dell XPS,1,436.46,436.46,0,google_pay,completed
+10478,1098,2023-12-10,Electronics,Samsung Galaxy S24,2,370.35,740.7,0,google_pay,completed
+10479,1099,2024-11-29,Clothing,Winter Jacket,3,108.35,325.05,0,google_pay,completed
+10480,1099,2024-11-16,Beauty,Shampoo,3,115.8,347.4,25.48,apple_pay,cancelled
+10481,1099,2024-11-09,Beauty,Perfume,1,91.71,91.71,0,google_pay,cancelled
+10482,1100,2024-04-19,Home,Coffee Maker,3,73.58,220.74,0,paypal,completed
+10483,1100,2024-04-19,Home,Vacuum Cleaner,3,73.17,219.51,0,google_pay,completed
+10484,1100,2024-04-19,Sports,Yoga Mat,2,54.08,108.16,0,paypal,completed
+10485,1101,2024-03-29,Electronics,Apple Watch,1,1237.85,1237.85,0,google_pay,completed
+10486,1101,2024-03-29,Clothing,Running Shoes,1,140.83,140.83,19.46,apple_pay,cancelled
+10487,1101,2024-03-29,Books,Cookbook,1,30.42,30.42,0,credit_card,completed
+10488,1101,2024-03-29,Books,Biography,3,43.53,130.59,6.67,credit_card,completed
+10489,1101,2023-08-15,Home,Towel Set,3,40.65,121.95,0,apple_pay,completed
+10490,1101,2023-08-15,Clothing,Running Shoes,1,176.74,176.74,13.14,google_pay,completed
+10491,1101,2023-08-15,Sports,Yoga Mat,2,186.1,372.2,49.4,apple_pay,completed
+10492,1101,2024-03-25,Beauty,Nail Polish,1,65.28,65.28,0,credit_card,completed
+10493,1101,2024-03-25,Books,Python Programming,1,32.12,32.12,6.09,paypal,completed
+10494,1101,2024-03-25,Electronics,iPad Air,1,1917.76,1917.76,353.25,google_pay,completed
+10495,1101,2024-03-25,Electronics,iPhone 15,2,2340.04,4680.08,0,apple_pay,completed
+10496,1101,2023-07-18,Home,Air Purifier,3,305.78,917.34,0,paypal,completed
+10497,1101,2023-07-18,Sports,Running Belt,2,168.88,337.76,0,credit_card,completed
+10498,1102,2023-07-15,Home,Blender,3,186.28,558.84,34.19,paypal,completed
+10499,1103,2023-03-28,Clothing,Winter Jacket,2,183.09,366.18,0,google_pay,completed
+10500,1103,2023-11-11,Books,Business Strategy,1,35.71,35.71,6.41,credit_card,completed
+10501,1103,2023-11-11,Electronics,iPhone 15,2,336.57,673.14,0,google_pay,completed
+10502,1103,2023-11-11,Books,Self Help Book,1,28.62,28.62,3.94,credit_card,completed
+10503,1104,2024-09-26,Books,Business Strategy,3,22.48,67.44,12.62,credit_card,completed
+10504,1104,2024-09-26,Books,Cookbook,2,41.29,82.58,0,google_pay,completed
+10505,1104,2024-09-26,Sports,Dumbbells,2,117.89,235.78,0,credit_card,completed
+10506,1104,2024-11-19,Clothing,Cotton T-Shirt,3,88.0,264.0,0,google_pay,completed
+10507,1104,2024-11-19,Beauty,Body Lotion,2,69.93,139.86,0,apple_pay,completed
+10508,1104,2024-11-19,Electronics,Kindle,1,359.1,359.1,0,google_pay,completed
+10509,1104,2024-11-19,Electronics,iPad Air,2,2071.12,4142.24,505.78,paypal,cancelled
+10510,1104,2024-12-07,Beauty,Face Cream,1,25.39,25.39,0,credit_card,cancelled
+10511,1104,2024-12-07,Clothing,Sweater,2,166.84,333.68,41.87,google_pay,completed
+10512,1104,2024-12-07,Beauty,Lipstick,2,18.82,37.64,0,google_pay,completed
+10513,1104,2024-12-07,Beauty,Hair Serum,1,134.41,134.41,0,apple_pay,completed
+10514,1104,2024-07-09,Books,Biography,2,19.03,38.06,0,google_pay,completed
+10515,1104,2024-07-02,Clothing,Sweater,1,173.74,173.74,33.26,google_pay,completed
+10516,1104,2024-07-02,Books,Biography,3,14.53,43.59,0,google_pay,completed
+10517,1105,2024-11-09,Sports,Yoga Mat,2,269.44,538.88,0,google_pay,completed
+10518,1105,2024-11-09,Sports,Tennis Racket,1,31.34,31.34,0,paypal,completed
+10519,1105,2024-11-09,Home,Coffee Maker,2,320.64,641.28,0,paypal,refunded
+10520,1105,2024-11-09,Books,Business Strategy,3,25.72,77.16,0,google_pay,refunded
+10521,1108,2024-10-25,Home,Coffee Maker,2,99.99,199.98,0,google_pay,completed
+10522,1108,2024-10-25,Electronics,Kindle,3,1608.83,4826.49,0,apple_pay,completed
+10523,1108,2024-10-25,Home,Vacuum Cleaner,2,343.7,687.4,0,paypal,completed
+10524,1108,2024-10-25,Sports,Basketball,1,255.0,255.0,0,paypal,completed
+10525,1108,2024-10-12,Beauty,Foundation,1,20.17,20.17,0,paypal,refunded
+10526,1108,2024-10-12,Books,Python Programming,1,39.46,39.46,6.89,google_pay,completed
+10527,1108,2024-10-12,Books,Python Programming,2,13.26,26.52,0,paypal,completed
+10528,1108,2024-10-12,Sports,Resistance Bands,1,97.06,97.06,10.74,credit_card,completed
+10529,1108,2024-11-03,Clothing,Winter Jacket,2,190.96,381.92,0,paypal,completed
+10530,1108,2024-11-03,Clothing,Blue Jeans,1,153.44,153.44,30.32,credit_card,completed
+10531,1108,2024-11-03,Electronics,Sony Headphones,1,1791.94,1791.94,0,credit_card,completed
+10532,1108,2024-10-12,Sports,Yoga Mat,1,142.96,142.96,23.43,credit_card,refunded
+10533,1108,2024-10-12,Books,Business Strategy,2,44.48,88.96,0,credit_card,completed
+10534,1108,2024-10-12,Electronics,Sony Headphones,3,735.23,2205.69,0,paypal,completed
+10535,1108,2024-10-12,Home,Table Lamp,2,242.7,485.4,87.11,apple_pay,completed
+10536,1108,2024-10-03,Books,Business Strategy,3,9.21,27.63,0,google_pay,completed
+10537,1108,2024-10-03,Home,Table Lamp,1,86.82,86.82,0,apple_pay,completed
+10538,1108,2024-10-03,Electronics,Dell XPS,3,1629.36,4888.08,0,google_pay,completed
+10539,1108,2024-10-03,Clothing,Winter Jacket,1,180.07,180.07,0,apple_pay,completed
+10540,1108,2024-12-16,Home,Bed Sheets,1,75.41,75.41,0,google_pay,completed
+10541,1108,2024-10-25,Clothing,Sweater,1,118.53,118.53,0,google_pay,cancelled
+10542,1108,2024-10-25,Home,Cookware Set,1,196.48,196.48,0,google_pay,completed
+10543,1108,2024-10-25,Home,Coffee Maker,2,305.83,611.66,99.72,credit_card,completed
+10544,1108,2024-11-29,Electronics,iPhone 15,3,1871.71,5615.13,0,paypal,refunded
+10545,1108,2024-11-29,Sports,Yoga Mat,1,67.87,67.87,0,apple_pay,completed
+10546,1108,2024-12-05,Sports,Yoga Mat,2,88.57,177.14,0,paypal,completed
+10547,1108,2024-12-05,Clothing,Running Shoes,2,191.28,382.56,0,paypal,completed
+10548,1109,2024-12-12,Home,Blender,1,85.97,85.97,0,apple_pay,completed
+10549,1109,2024-12-12,Home,Coffee Maker,1,257.73,257.73,51.13,credit_card,completed
+10550,1109,2024-11-29,Books,Self Help Book,3,40.33,120.99,0,paypal,completed
+10551,1109,2024-11-29,Clothing,Running Shoes,2,171.96,343.92,0,google_pay,completed
+10552,1109,2024-12-27,Electronics,iPhone 15,2,1540.53,3081.06,616.13,paypal,completed
+10553,1109,2024-12-27,Home,Table Lamp,1,88.83,88.83,0,apple_pay,completed
+10554,1109,2024-10-06,Home,Vacuum Cleaner,1,72.62,72.62,0,paypal,completed
+10555,1109,2024-10-06,Electronics,Kindle,2,978.78,1957.56,0,credit_card,completed
+10556,1109,2024-10-06,Books,Data Science Guide,3,39.99,119.97,0,paypal,completed
+10557,1109,2024-10-06,Books,Mystery Novel,3,48.44,145.32,0,google_pay,completed
+10558,1110,2024-12-27,Electronics,Dell XPS,1,1358.56,1358.56,0,google_pay,completed
+10559,1110,2024-12-27,Home,Towel Set,2,84.92,169.84,24.53,google_pay,completed
+10560,1110,2024-12-27,Electronics,MacBook Pro,3,354.89,1064.67,0,paypal,completed
+10561,1110,2024-12-27,Electronics,iPhone 15,3,1603.8,4811.4,0,apple_pay,completed
+10562,1110,2024-09-12,Clothing,Dress Shirt,1,53.39,53.39,3.17,apple_pay,completed
+10563,1110,2024-09-12,Home,Coffee Maker,2,63.81,127.62,0,credit_card,completed
+10564,1110,2024-09-12,Sports,Dumbbells,2,82.52,165.04,21.06,google_pay,completed
+10565,1111,2024-02-13,Home,Towel Set,3,389.32,1167.96,0,paypal,completed
+10566,1111,2024-02-13,Clothing,Winter Jacket,3,117.15,351.45,30.98,apple_pay,completed
+10567,1111,2024-08-16,Sports,Running Belt,3,278.46,835.38,0,google_pay,completed
+10568,1111,2024-06-09,Electronics,Apple Watch,2,1693.9,3387.8,270.15,paypal,completed
+10569,1111,2024-06-09,Clothing,Hoodie,2,36.15,72.3,13.84,google_pay,completed
+10570,1111,2024-06-09,Beauty,Perfume,2,49.67,99.34,9.94,apple_pay,completed
+10571,1111,2024-06-09,Beauty,Foundation,3,86.18,258.54,25.36,google_pay,completed
+10572,1111,2023-08-15,Books,Data Science Guide,1,38.59,38.59,0,paypal,completed
+10573,1111,2023-08-15,Home,Table Lamp,1,348.04,348.04,0,apple_pay,completed
+10574,1112,2024-12-26,Sports,Gym Bag,1,172.75,172.75,0,credit_card,completed
+10575,1112,2024-11-14,Sports,Running Belt,2,222.13,444.26,0,paypal,completed
+10576,1112,2024-11-23,Books,Data Science Guide,3,25.45,76.35,0,paypal,completed
+10577,1112,2024-11-23,Beauty,Face Cream,1,128.6,128.6,0,apple_pay,completed
+10578,1112,2024-11-23,Electronics,Sony Headphones,3,1560.47,4681.41,0,google_pay,completed
+10579,1113,2024-04-24,Clothing,Sweater,1,43.19,43.19,0,apple_pay,completed
+10580,1113,2024-04-24,Electronics,iPad Air,2,726.25,1452.5,0,credit_card,completed
+10581,1113,2024-04-24,Electronics,Dell XPS,3,463.72,1391.16,87.17,apple_pay,completed
+10582,1113,2024-04-24,Clothing,Running Shoes,1,47.86,47.86,3.07,paypal,refunded
+10583,1114,2024-09-04,Electronics,iPhone 15,2,2422.2,4844.4,346.54,credit_card,completed
+10584,1114,2024-09-04,Home,Bed Sheets,2,177.09,354.18,57.47,credit_card,completed
+10585,1114,2024-09-04,Books,Biography,1,24.64,24.64,0,apple_pay,completed
+10586,1114,2024-09-04,Electronics,iPhone 15,3,1015.24,3045.72,0,google_pay,completed
+10587,1114,2024-12-21,Books,Biography,3,14.86,44.58,0,paypal,completed
+10588,1114,2024-04-18,Electronics,iPhone 15,3,2360.08,7080.24,0,credit_card,completed
+10589,1114,2024-04-18,Books,Self Help Book,1,46.55,46.55,5.04,apple_pay,completed
+10590,1114,2024-04-18,Electronics,Dell XPS,2,692.09,1384.18,0,apple_pay,completed
+10591,1114,2024-04-18,Books,Biography,1,25.88,25.88,0,apple_pay,completed
+10592,1115,2024-10-29,Sports,Yoga Mat,2,264.92,529.84,64.11,credit_card,completed
+10593,1115,2024-10-29,Sports,Water Bottle,1,298.43,298.43,37.05,paypal,completed
+10594,1115,2024-05-21,Home,Vacuum Cleaner,1,355.42,355.42,0,apple_pay,completed
+10595,1115,2024-05-21,Home,Table Lamp,1,313.38,313.38,0,google_pay,completed
+10596,1115,2024-06-28,Clothing,Hoodie,3,65.0,195.0,0,paypal,cancelled
+10597,1115,2024-06-28,Home,Table Lamp,3,165.8,497.4,0,paypal,completed
+10598,1115,2024-06-28,Books,The Great Novel,2,36.53,73.06,0,apple_pay,completed
+10599,1116,2023-11-02,Beauty,Face Cream,1,93.6,93.6,0,apple_pay,completed
+10600,1117,2023-10-27,Beauty,Perfume,1,24.52,24.52,2.09,credit_card,completed
+10601,1117,2023-10-27,Electronics,Dell XPS,2,1472.99,2945.98,0,apple_pay,completed
+10602,1117,2023-10-27,Books,Biography,3,12.75,38.25,0,apple_pay,completed
+10603,1117,2023-10-27,Home,Air Purifier,2,47.95,95.9,5.98,apple_pay,completed
+10604,1117,2024-11-17,Home,Bed Sheets,2,77.61,155.22,25.34,credit_card,completed
+10605,1117,2024-11-17,Home,Table Lamp,3,61.24,183.72,0,credit_card,completed
+10606,1117,2024-11-17,Electronics,MacBook Pro,2,1344.83,2689.66,0,credit_card,completed
+10607,1117,2024-11-17,Electronics,Sony Headphones,2,389.22,778.44,0,google_pay,completed
+10608,1120,2024-12-26,Home,Air Purifier,2,181.4,362.8,19.95,paypal,completed
+10609,1120,2024-12-22,Books,Self Help Book,2,32.69,65.38,0,google_pay,completed
+10610,1120,2024-12-22,Beauty,Nail Polish,3,40.91,122.73,14.81,credit_card,completed
+10611,1122,2023-05-07,Clothing,Running Shoes,2,92.86,185.72,34.67,credit_card,completed
+10612,1122,2023-05-07,Sports,Yoga Mat,3,143.4,430.2,0,paypal,completed
+10613,1123,2024-02-19,Beauty,Face Cream,2,76.49,152.98,0,apple_pay,completed
+10614,1123,2024-02-19,Beauty,Lipstick,3,82.56,247.68,0,google_pay,completed
+10615,1123,2024-02-19,Books,The Great Novel,3,42.75,128.25,18.68,apple_pay,completed
+10616,1123,2024-12-03,Clothing,Winter Jacket,3,100.97,302.91,0,google_pay,completed
+10617,1123,2024-12-03,Beauty,Shampoo,3,130.41,391.23,0,google_pay,completed
+10618,1123,2023-10-20,Clothing,Running Shoes,1,156.26,156.26,0,credit_card,completed
+10619,1123,2023-10-20,Books,Business Strategy,3,32.25,96.75,12.22,paypal,completed
+10620,1123,2023-10-20,Books,Python Programming,3,15.16,45.48,8.86,paypal,completed
+10621,1123,2023-10-20,Books,Python Programming,2,38.5,77.0,10.02,apple_pay,completed
+10622,1123,2023-08-11,Clothing,Hoodie,3,71.55,214.65,0,paypal,completed
+10623,1123,2023-08-11,Electronics,Dell XPS,2,964.47,1928.94,270.49,apple_pay,completed
+10624,1123,2023-08-11,Home,Bed Sheets,2,38.91,77.82,0,apple_pay,completed
+10625,1123,2023-08-08,Clothing,Blue Jeans,2,65.52,131.04,0,apple_pay,completed
+10626,1123,2023-08-08,Clothing,Dress Shirt,3,160.54,481.62,74.46,credit_card,completed
+10627,1123,2023-08-08,Books,Python Programming,2,27.86,55.72,2.83,apple_pay,completed
+10628,1123,2023-08-08,Beauty,Foundation,3,27.6,82.8,10.69,credit_card,completed
+10629,1123,2024-02-02,Books,Self Help Book,3,45.84,137.52,0,credit_card,refunded
+10630,1125,2024-09-18,Electronics,Dell XPS,2,2003.36,4006.72,0,paypal,completed
+10631,1125,2024-09-18,Books,Self Help Book,1,26.85,26.85,0,credit_card,completed
+10632,1125,2024-09-18,Sports,Dumbbells,2,60.25,120.5,0,google_pay,completed
+10633,1125,2024-11-25,Beauty,Perfume,2,127.42,254.84,0,credit_card,refunded
+10634,1125,2024-11-25,Books,Data Science Guide,3,29.31,87.93,0,paypal,completed
+10635,1125,2024-09-08,Beauty,Perfume,1,22.31,22.31,0,credit_card,completed
+10636,1125,2024-09-08,Beauty,Hair Serum,1,35.49,35.49,0,credit_card,completed
+10637,1125,2024-09-08,Sports,Yoga Mat,3,52.91,158.73,0,google_pay,completed
+10638,1125,2024-09-08,Electronics,MacBook Pro,2,727.16,1454.32,130.43,apple_pay,completed
+10639,1126,2024-12-11,Beauty,Lipstick,3,46.67,140.01,21.29,credit_card,completed
+10640,1126,2024-12-11,Electronics,MacBook Pro,1,1917.73,1917.73,0,paypal,completed
+10641,1126,2024-12-11,Home,Vacuum Cleaner,3,353.45,1060.35,0,credit_card,completed
+10642,1126,2024-12-11,Clothing,Cotton T-Shirt,2,84.56,169.12,0,apple_pay,completed
+10643,1126,2024-11-02,Books,The Great Novel,1,33.4,33.4,0,paypal,completed
+10644,1126,2024-11-02,Home,Air Purifier,2,146.75,293.5,53.92,apple_pay,completed
+10645,1126,2024-11-02,Home,Air Purifier,3,311.72,935.16,0,google_pay,completed
+10646,1126,2024-11-02,Home,Table Lamp,3,35.02,105.06,0,apple_pay,completed
+10647,1127,2023-06-24,Electronics,iPad Air,3,1552.9,4658.7,406.78,google_pay,completed
+10648,1127,2023-06-24,Books,Data Science Guide,1,47.43,47.43,0,google_pay,completed
+10649,1128,2024-11-02,Sports,Gym Bag,2,181.23,362.46,0,google_pay,completed
+10650,1128,2024-11-02,Beauty,Lipstick,1,114.54,114.54,8.92,paypal,completed
+10651,1128,2024-11-02,Clothing,Hoodie,3,130.58,391.74,0,credit_card,completed
+10652,1128,2024-11-02,Books,Biography,1,16.57,16.57,0,paypal,completed
+10653,1128,2024-12-15,Clothing,Sneakers,3,151.26,453.78,49.9,google_pay,completed
+10654,1128,2024-12-15,Books,Data Science Guide,2,45.65,91.3,0,paypal,completed
+10655,1128,2024-07-08,Sports,Running Belt,1,163.61,163.61,14.35,paypal,completed
+10656,1128,2024-07-08,Electronics,iPad Air,1,1625.87,1625.87,319.33,paypal,completed
+10657,1128,2024-07-08,Clothing,Hoodie,1,24.28,24.28,2.27,google_pay,completed
+10658,1131,2024-12-07,Clothing,Winter Jacket,2,152.41,304.82,0,apple_pay,completed
+10659,1131,2024-12-07,Beauty,Shampoo,1,53.17,53.17,0,google_pay,completed
+10660,1131,2024-12-07,Home,Vacuum Cleaner,3,341.14,1023.42,0,google_pay,completed
+10661,1131,2024-12-07,Beauty,Body Lotion,3,64.57,193.71,0,paypal,completed
+10662,1131,2024-08-14,Electronics,iPad Air,3,2432.17,7296.51,0,paypal,completed
+10663,1131,2024-08-14,Clothing,Sneakers,1,24.58,24.58,4.89,credit_card,completed
+10664,1131,2024-08-14,Sports,Basketball,3,272.23,816.69,0,credit_card,refunded
+10665,1132,2024-04-17,Books,Data Science Guide,1,12.41,12.41,0,credit_card,completed
+10666,1132,2024-04-17,Books,Biography,2,13.02,26.04,0,google_pay,completed
+10667,1132,2024-04-17,Clothing,Dress Shirt,1,74.73,74.73,7.18,paypal,completed
+10668,1132,2024-09-28,Clothing,Winter Jacket,3,53.95,161.85,0,google_pay,completed
+10669,1132,2024-09-28,Electronics,iPhone 15,1,1390.64,1390.64,0,credit_card,completed
+10670,1132,2024-09-28,Books,Mystery Novel,1,18.03,18.03,0,paypal,completed
+10671,1134,2024-12-22,Clothing,Sneakers,3,152.96,458.88,0,paypal,completed
+10672,1134,2024-12-12,Clothing,Cotton T-Shirt,2,26.26,52.52,0,apple_pay,completed
+10673,1134,2024-12-12,Home,Table Lamp,2,135.05,270.1,0,google_pay,completed
+10674,1134,2024-12-12,Books,The Great Novel,2,38.99,77.98,0,paypal,completed
+10675,1134,2024-12-12,Home,Blender,1,284.98,284.98,0,credit_card,completed
+10676,1135,2024-12-29,Beauty,Face Cream,3,88.36,265.08,27.46,paypal,completed
+10677,1135,2024-12-29,Beauty,Lipstick,3,93.25,279.75,0,paypal,completed
+10678,1135,2024-12-29,Home,Coffee Maker,3,330.16,990.48,0,credit_card,completed
+10679,1135,2024-12-29,Home,Cookware Set,3,303.54,910.62,155.87,google_pay,completed
+10680,1135,2024-11-26,Home,Bed Sheets,3,164.33,492.99,0,google_pay,completed
+10681,1135,2024-11-26,Electronics,Kindle,2,304.92,609.84,0,credit_card,completed
+10682,1135,2024-11-26,Beauty,Perfume,2,134.31,268.62,0,credit_card,completed
+10683,1137,2024-05-26,Sports,Running Belt,1,38.13,38.13,0,google_pay,completed
+10684,1137,2024-05-26,Books,Data Science Guide,3,38.26,114.78,0,google_pay,completed
+10685,1137,2024-11-09,Beauty,Face Cream,3,72.94,218.82,0,apple_pay,completed
+10686,1137,2024-11-09,Clothing,Sneakers,1,193.75,193.75,0,paypal,completed
+10687,1137,2024-11-09,Clothing,Cotton T-Shirt,2,148.75,297.5,0,paypal,completed
+10688,1137,2024-05-14,Home,Table Lamp,1,215.16,215.16,0,google_pay,completed
+10689,1137,2024-05-14,Books,The Great Novel,3,37.79,113.37,0,credit_card,completed
+10690,1137,2024-05-14,Sports,Running Belt,1,293.05,293.05,41.0,apple_pay,completed
+10691,1137,2024-05-14,Clothing,Winter Jacket,1,54.94,54.94,3.94,credit_card,completed
+10692,1138,2023-08-10,Home,Table Lamp,3,154.25,462.75,0,google_pay,completed
+10693,1139,2024-04-15,Clothing,Winter Jacket,1,125.92,125.92,0,google_pay,completed
+10694,1139,2024-04-15,Beauty,Lipstick,1,14.48,14.48,0,credit_card,refunded
+10695,1139,2024-07-18,Books,Self Help Book,2,37.45,74.9,0,credit_card,completed
+10696,1139,2024-07-18,Sports,Running Belt,3,269.29,807.87,0,apple_pay,completed
+10697,1139,2024-07-18,Books,Python Programming,3,31.89,95.67,13.06,google_pay,completed
+10698,1139,2024-07-18,Books,Biography,1,43.91,43.91,0,google_pay,completed
+10699,1140,2024-12-22,Home,Air Purifier,1,80.01,80.01,0,apple_pay,completed
+10700,1140,2024-11-22,Clothing,Sneakers,2,165.33,330.66,16.83,google_pay,refunded
+10701,1140,2024-11-22,Home,Coffee Maker,2,116.51,233.02,0,credit_card,completed
+10702,1140,2024-09-28,Electronics,MacBook Pro,3,1466.98,4400.94,0,google_pay,completed
+10703,1140,2024-09-28,Home,Coffee Maker,3,230.66,691.98,0,credit_card,completed
+10704,1140,2024-09-28,Sports,Dumbbells,1,31.67,31.67,4.62,paypal,completed
+10705,1140,2024-12-01,Sports,Basketball,2,59.89,119.78,0,apple_pay,refunded
+10706,1140,2024-12-08,Beauty,Body Lotion,1,129.47,129.47,0,google_pay,completed
+10707,1140,2024-12-08,Electronics,iPhone 15,3,1875.54,5626.62,0,google_pay,completed
+10708,1140,2024-12-08,Home,Towel Set,2,273.79,547.58,0,paypal,completed
+10709,1140,2024-12-08,Electronics,iPad Air,2,1942.77,3885.54,358.35,apple_pay,completed
+10710,1141,2024-12-02,Sports,Dumbbells,1,173.31,173.31,0,google_pay,completed
+10711,1141,2024-12-02,Home,Cookware Set,3,107.2,321.6,56.86,google_pay,completed
+10712,1142,2024-07-01,Clothing,Running Shoes,3,161.96,485.88,0,google_pay,completed
+10713,1142,2024-07-01,Electronics,iPad Air,3,1195.28,3585.84,0,google_pay,refunded
+10714,1142,2024-07-01,Electronics,Apple Watch,1,980.11,980.11,0,apple_pay,completed
+10715,1142,2024-07-01,Books,Data Science Guide,2,45.07,90.14,0,apple_pay,completed
+10716,1142,2024-01-18,Home,Cookware Set,1,55.27,55.27,8.41,paypal,completed
+10717,1143,2024-12-05,Books,Cookbook,1,21.64,21.64,0,credit_card,completed
+10718,1144,2024-09-19,Clothing,Running Shoes,2,73.4,146.8,0,apple_pay,completed
+10719,1144,2024-09-19,Books,Self Help Book,1,37.39,37.39,5.97,credit_card,completed
+10720,1144,2024-09-19,Beauty,Body Lotion,3,140.64,421.92,58.03,google_pay,completed
+10721,1144,2024-07-23,Sports,Dumbbells,3,279.8,839.4,0,google_pay,completed
+10722,1144,2024-03-04,Beauty,Hair Serum,3,41.43,124.29,0,paypal,completed
+10723,1144,2024-03-04,Clothing,Sneakers,3,128.31,384.93,0,google_pay,completed
+10724,1144,2024-03-04,Books,The Great Novel,2,36.47,72.94,0,paypal,completed
+10725,1144,2024-10-26,Books,Python Programming,3,19.61,58.83,10.05,paypal,completed
+10726,1144,2024-10-26,Clothing,Blue Jeans,3,83.78,251.34,0,paypal,completed
+10727,1144,2024-10-26,Beauty,Nail Polish,1,119.7,119.7,0,google_pay,completed
+10728,1144,2024-10-26,Home,Table Lamp,1,97.84,97.84,0,paypal,completed
+10729,1144,2024-07-27,Books,Cookbook,2,33.69,67.38,0,paypal,completed
+10730,1144,2024-07-27,Books,Cookbook,1,33.88,33.88,2.83,apple_pay,completed
+10731,1145,2024-12-28,Electronics,MacBook Pro,1,1808.22,1808.22,0,credit_card,completed
+10732,1145,2024-12-28,Electronics,Apple Watch,3,714.58,2143.74,163.52,paypal,completed
+10733,1145,2024-08-16,Home,Towel Set,3,55.12,165.36,0,credit_card,completed
+10734,1145,2024-08-16,Beauty,Nail Polish,2,124.32,248.64,24.67,apple_pay,completed
+10735,1148,2024-04-11,Books,The Great Novel,2,21.94,43.88,0,credit_card,completed
+10736,1148,2024-04-11,Clothing,Cotton T-Shirt,1,24.3,24.3,2.65,paypal,completed
+10737,1148,2024-07-25,Beauty,Lipstick,1,117.96,117.96,0,paypal,completed
+10738,1148,2024-07-25,Clothing,Sweater,2,103.14,206.28,0,google_pay,refunded
+10739,1148,2024-10-08,Books,Biography,2,38.2,76.4,0,credit_card,completed
+10740,1149,2024-09-18,Sports,Resistance Bands,1,82.6,82.6,8.28,apple_pay,completed
+10741,1149,2024-09-18,Clothing,Dress Shirt,1,150.03,150.03,0,apple_pay,completed
+10742,1149,2024-10-04,Clothing,Sweater,2,22.33,44.66,0,apple_pay,completed
+10743,1149,2024-07-03,Books,Cookbook,2,14.51,29.02,0,google_pay,completed
+10744,1149,2024-07-03,Clothing,Blue Jeans,1,63.12,63.12,0,apple_pay,completed
+10745,1150,2023-08-26,Home,Bed Sheets,3,55.26,165.78,0,google_pay,completed
+10746,1150,2023-08-26,Beauty,Foundation,1,83.61,83.61,0,google_pay,completed
+10747,1150,2023-08-26,Beauty,Perfume,3,120.17,360.51,0,google_pay,refunded
+10748,1150,2023-08-26,Electronics,iPad Air,2,330.25,660.5,0,paypal,completed
+10749,1150,2023-06-20,Books,Biography,2,17.66,35.32,0,apple_pay,completed
+10750,1150,2023-06-20,Books,Python Programming,1,13.03,13.03,1.8,credit_card,refunded
+10751,1150,2024-02-21,Home,Table Lamp,3,374.13,1122.39,0,credit_card,completed
+10752,1150,2024-10-02,Beauty,Nail Polish,2,113.56,227.12,41.19,paypal,completed
+10753,1150,2024-10-02,Sports,Basketball,2,100.25,200.5,37.97,google_pay,completed
+10754,1151,2024-09-13,Beauty,Nail Polish,1,128.07,128.07,16.52,paypal,refunded
+10755,1151,2024-09-13,Clothing,Sweater,3,134.73,404.19,0,apple_pay,completed
+10756,1151,2024-09-13,Electronics,Apple Watch,3,407.85,1223.55,0,paypal,cancelled
+10757,1151,2024-09-13,Beauty,Perfume,3,100.01,300.03,0,apple_pay,completed
+10758,1151,2024-08-20,Electronics,iPad Air,3,1241.44,3724.32,0,google_pay,completed
+10759,1151,2024-08-20,Clothing,Cotton T-Shirt,1,173.14,173.14,20.21,credit_card,completed
+10760,1151,2024-08-20,Electronics,iPhone 15,3,2235.13,6705.39,0,paypal,completed
+10761,1151,2024-08-20,Electronics,Samsung Galaxy S24,2,1008.83,2017.66,322.56,google_pay,completed
+10762,1151,2024-07-09,Home,Towel Set,3,371.91,1115.73,109.76,apple_pay,completed
+10763,1151,2024-07-09,Books,Mystery Novel,1,48.65,48.65,0,apple_pay,completed
+10764,1151,2024-07-09,Electronics,iPhone 15,1,1149.11,1149.11,0,google_pay,completed
+10765,1152,2024-10-24,Home,Coffee Maker,2,55.38,110.76,0,credit_card,completed
+10766,1152,2024-10-24,Clothing,Running Shoes,2,174.08,348.16,0,google_pay,completed
+10767,1153,2023-11-25,Electronics,MacBook Pro,1,742.5,742.5,0,google_pay,completed
+10768,1153,2023-11-25,Electronics,Dell XPS,2,2104.28,4208.56,671.39,paypal,completed
+10769,1153,2023-11-25,Books,Business Strategy,1,44.28,44.28,0,paypal,refunded
+10770,1154,2024-12-04,Sports,Gym Bag,1,64.23,64.23,6.42,paypal,completed
+10771,1154,2024-12-04,Electronics,Sony Headphones,3,451.16,1353.48,0,google_pay,completed
+10772,1154,2024-05-31,Sports,Water Bottle,3,152.68,458.04,79.33,google_pay,completed
+10773,1154,2024-03-23,Home,Cookware Set,1,234.44,234.44,0,apple_pay,completed
+10774,1154,2024-03-23,Sports,Yoga Mat,2,105.25,210.5,0,google_pay,completed
+10775,1154,2024-09-11,Home,Coffee Maker,3,148.09,444.27,0,apple_pay,refunded
+10776,1154,2024-09-11,Beauty,Face Cream,2,92.07,184.14,0,paypal,completed
+10777,1154,2024-09-11,Beauty,Hair Serum,1,35.1,35.1,0,credit_card,completed
+10778,1154,2024-09-11,Clothing,Winter Jacket,2,183.04,366.08,0,apple_pay,completed
+10779,1154,2024-04-04,Sports,Yoga Mat,2,69.3,138.6,0,credit_card,completed
+10780,1154,2024-04-04,Sports,Water Bottle,3,145.59,436.77,0,apple_pay,completed
+10781,1154,2024-04-04,Sports,Resistance Bands,1,201.39,201.39,0,apple_pay,completed
+10782,1155,2024-04-28,Clothing,Blue Jeans,3,112.96,338.88,59.6,google_pay,completed
+10783,1155,2024-04-28,Beauty,Perfume,1,90.17,90.17,0,paypal,completed
+10784,1156,2024-10-28,Books,The Great Novel,3,34.71,104.13,11.09,apple_pay,completed
+10785,1156,2024-10-28,Clothing,Sweater,2,169.96,339.92,0,credit_card,completed
+10786,1156,2024-11-28,Clothing,Blue Jeans,2,91.51,183.02,15.02,credit_card,refunded
+10787,1156,2024-11-28,Home,Blender,3,370.63,1111.89,70.66,paypal,completed
+10788,1156,2024-11-28,Home,Vacuum Cleaner,2,333.63,667.26,89.73,credit_card,completed
+10789,1156,2024-11-28,Books,Data Science Guide,1,14.34,14.34,1.19,google_pay,completed
+10790,1156,2024-11-09,Clothing,Running Shoes,1,103.87,103.87,6.08,google_pay,completed
+10791,1157,2024-04-23,Home,Towel Set,1,277.31,277.31,0,google_pay,completed
+10792,1157,2024-04-23,Sports,Resistance Bands,3,88.7,266.1,0,google_pay,completed
+10793,1157,2024-04-23,Home,Cookware Set,1,248.54,248.54,0,credit_card,completed
+10794,1158,2024-01-12,Beauty,Foundation,2,82.44,164.88,0,google_pay,completed
+10795,1158,2024-01-12,Sports,Yoga Mat,3,180.01,540.03,0,google_pay,cancelled
+10796,1158,2024-01-12,Clothing,Hoodie,3,56.82,170.46,0,google_pay,completed
+10797,1158,2024-01-12,Clothing,Blue Jeans,1,191.71,191.71,0,paypal,completed
+10798,1158,2024-01-09,Sports,Gym Bag,3,45.89,137.67,0,credit_card,completed
+10799,1158,2024-01-09,Beauty,Body Lotion,3,24.09,72.27,9.54,google_pay,completed
+10800,1159,2024-09-06,Sports,Running Belt,1,199.28,199.28,0,google_pay,refunded
+10801,1159,2024-09-05,Electronics,iPhone 15,2,1588.5,3177.0,0,paypal,completed
+10802,1161,2024-09-09,Sports,Tennis Racket,1,93.07,93.07,13.91,apple_pay,completed
+10803,1161,2024-09-09,Sports,Water Bottle,1,83.9,83.9,0,apple_pay,completed
+10804,1161,2024-09-09,Books,Biography,3,40.32,120.96,24.13,apple_pay,completed
+10805,1161,2024-09-09,Beauty,Nail Polish,1,121.65,121.65,0,paypal,completed
+10806,1161,2024-12-26,Electronics,iPad Air,2,1047.58,2095.16,0,apple_pay,completed
+10807,1161,2024-12-26,Books,The Great Novel,2,14.08,28.16,0,paypal,completed
+10808,1161,2024-12-30,Beauty,Perfume,2,18.13,36.26,0,paypal,completed
+10809,1161,2024-12-30,Electronics,Samsung Galaxy S24,2,439.56,879.12,169.36,credit_card,completed
+10810,1161,2024-12-30,Clothing,Cotton T-Shirt,3,161.79,485.37,38.72,google_pay,completed
+10811,1162,2024-09-08,Home,Bed Sheets,3,251.64,754.92,103.74,google_pay,completed
+10812,1162,2024-11-17,Sports,Yoga Mat,1,80.92,80.92,13.81,apple_pay,completed
+10813,1162,2024-11-17,Books,Self Help Book,2,25.48,50.96,0,credit_card,completed
+10814,1162,2024-11-17,Clothing,Hoodie,3,173.12,519.36,89.41,paypal,completed
+10815,1162,2024-11-17,Clothing,Sneakers,2,58.35,116.7,0,credit_card,completed
+10816,1162,2024-09-27,Sports,Water Bottle,2,143.65,287.3,40.28,paypal,completed
+10817,1162,2024-09-27,Beauty,Nail Polish,1,26.31,26.31,0,paypal,completed
+10818,1162,2024-09-27,Beauty,Face Cream,1,89.4,89.4,0,apple_pay,completed
+10819,1163,2024-11-22,Clothing,Cotton T-Shirt,1,73.02,73.02,0,apple_pay,cancelled
+10820,1163,2024-11-22,Electronics,iPad Air,3,1924.51,5773.53,0,google_pay,completed
+10821,1163,2024-11-30,Books,Business Strategy,2,20.67,41.34,0,apple_pay,completed
+10822,1165,2024-10-10,Clothing,Winter Jacket,2,152.74,305.48,0,credit_card,completed
+10823,1165,2024-10-10,Beauty,Nail Polish,2,113.48,226.96,32.11,google_pay,completed
+10824,1165,2024-10-10,Electronics,iPad Air,1,2385.27,2385.27,146.79,google_pay,completed
+10825,1165,2024-10-10,Sports,Dumbbells,3,251.89,755.67,0,paypal,cancelled
+10826,1165,2024-07-29,Home,Towel Set,2,287.65,575.3,0,paypal,completed
+10827,1165,2024-07-29,Beauty,Nail Polish,2,51.43,102.86,7.13,paypal,completed
+10828,1165,2024-07-29,Sports,Gym Bag,2,203.7,407.4,79.71,credit_card,completed
+10829,1165,2024-07-21,Books,Mystery Novel,3,10.18,30.54,4.21,paypal,completed
+10830,1165,2024-07-21,Electronics,Dell XPS,2,1128.65,2257.3,0,google_pay,completed
+10831,1165,2024-07-04,Books,Biography,1,9.06,9.06,1.47,apple_pay,refunded
+10832,1165,2024-07-04,Clothing,Blue Jeans,1,161.82,161.82,11.33,paypal,completed
+10833,1165,2024-07-04,Home,Coffee Maker,1,361.87,361.87,0,google_pay,completed
+10834,1165,2024-07-04,Sports,Tennis Racket,2,153.66,307.32,0,google_pay,completed
+10835,1166,2023-06-07,Sports,Dumbbells,2,57.52,115.04,0,credit_card,completed
+10836,1166,2023-06-07,Home,Table Lamp,1,257.21,257.21,0,apple_pay,completed
+10837,1166,2023-06-07,Electronics,Kindle,2,2172.23,4344.46,500.23,google_pay,completed
+10838,1166,2023-06-07,Electronics,Samsung Galaxy S24,3,1143.21,3429.63,0,paypal,completed
+10839,1166,2023-11-25,Sports,Resistance Bands,3,271.91,815.73,0,apple_pay,completed
+10840,1167,2023-08-08,Sports,Running Belt,3,66.89,200.67,0,apple_pay,completed
+10841,1167,2023-08-08,Electronics,Sony Headphones,3,397.96,1193.88,0,apple_pay,completed
+10842,1167,2023-08-08,Electronics,MacBook Pro,3,2062.48,6187.44,0,paypal,completed
+10843,1167,2024-01-24,Home,Table Lamp,3,176.75,530.25,0,paypal,completed
+10844,1167,2024-01-24,Sports,Yoga Mat,2,148.15,296.3,0,apple_pay,completed
+10845,1167,2024-01-24,Home,Table Lamp,2,299.55,599.1,0,google_pay,completed
+10846,1168,2024-11-03,Sports,Tennis Racket,1,116.56,116.56,0,google_pay,completed
+10847,1168,2024-11-03,Sports,Water Bottle,3,248.99,746.97,0,credit_card,completed
+10848,1168,2024-11-03,Home,Coffee Maker,3,148.23,444.69,0,google_pay,completed
+10849,1168,2024-06-17,Electronics,Dell XPS,1,1835.4,1835.4,229.99,google_pay,completed
+10850,1168,2024-06-17,Clothing,Winter Jacket,2,56.1,112.2,0,credit_card,completed
+10851,1168,2024-06-17,Home,Air Purifier,2,207.11,414.22,0,credit_card,completed
+10852,1168,2024-06-17,Books,Python Programming,3,27.24,81.72,0,apple_pay,completed
+10853,1170,2024-03-16,Home,Vacuum Cleaner,2,310.56,621.12,68.93,credit_card,completed
+10854,1170,2024-03-16,Clothing,Hoodie,3,137.18,411.54,0,credit_card,completed
+10855,1170,2024-03-16,Home,Table Lamp,1,290.49,290.49,0,credit_card,completed
+10856,1170,2024-03-16,Clothing,Cotton T-Shirt,1,52.3,52.3,0,apple_pay,completed
+10857,1171,2024-02-09,Beauty,Body Lotion,1,35.04,35.04,2.26,credit_card,completed
+10858,1172,2024-03-02,Books,Cookbook,1,13.12,13.12,0,paypal,completed
+10859,1172,2024-03-02,Electronics,Samsung Galaxy S24,2,1232.71,2465.42,0,paypal,completed
+10860,1172,2024-03-02,Clothing,Running Shoes,1,69.02,69.02,0,paypal,completed
+10861,1172,2024-03-02,Clothing,Running Shoes,1,86.04,86.04,0,credit_card,completed
+10862,1172,2024-07-20,Electronics,Dell XPS,2,1474.21,2948.42,0,paypal,completed
+10863,1174,2024-08-13,Beauty,Lipstick,2,36.87,73.74,0,paypal,cancelled
+10864,1174,2024-08-13,Clothing,Cotton T-Shirt,3,126.59,379.77,0,apple_pay,completed
+10865,1174,2024-05-28,Clothing,Cotton T-Shirt,2,52.42,104.84,0,apple_pay,completed
+10866,1174,2024-05-28,Sports,Water Bottle,2,240.23,480.46,0,google_pay,completed
+10867,1174,2024-05-28,Books,Business Strategy,2,15.95,31.9,0,apple_pay,completed
+10868,1174,2024-02-07,Books,Cookbook,3,35.8,107.4,0,paypal,completed
+10869,1174,2024-02-07,Home,Cookware Set,1,259.08,259.08,26.8,credit_card,completed
+10870,1175,2023-06-25,Beauty,Lipstick,2,146.51,293.02,0,credit_card,completed
+10871,1175,2023-06-25,Home,Towel Set,2,384.36,768.72,0,credit_card,completed
+10872,1175,2023-06-25,Sports,Gym Bag,2,100.24,200.48,0,apple_pay,completed
+10873,1175,2024-05-28,Clothing,Hoodie,3,144.63,433.89,0,apple_pay,completed
+10874,1175,2024-05-28,Books,Biography,3,21.71,65.13,0,google_pay,completed
+10875,1175,2024-11-07,Beauty,Body Lotion,3,46.23,138.69,0,google_pay,completed
+10876,1175,2024-11-07,Books,Data Science Guide,2,13.13,26.26,0,google_pay,completed
+10877,1175,2024-11-15,Clothing,Cotton T-Shirt,2,67.86,135.72,12.62,google_pay,completed
+10878,1175,2024-11-15,Clothing,Blue Jeans,2,160.26,320.52,0,apple_pay,completed
+10879,1175,2024-11-15,Sports,Water Bottle,3,196.45,589.35,0,credit_card,completed
+10880,1175,2024-11-15,Books,Python Programming,2,43.42,86.84,0,credit_card,completed
+10881,1177,2024-12-24,Sports,Tennis Racket,3,146.18,438.54,0,paypal,completed
+10882,1177,2024-12-24,Books,Data Science Guide,2,11.36,22.72,0,credit_card,completed
+10883,1177,2024-12-24,Electronics,Sony Headphones,3,1648.8,4946.4,958.8,credit_card,refunded
+10884,1177,2024-12-24,Sports,Running Belt,2,222.86,445.72,0,credit_card,completed
+10885,1177,2024-09-27,Books,Business Strategy,3,39.73,119.19,13.86,apple_pay,completed
+10886,1177,2024-09-27,Clothing,Running Shoes,2,170.64,341.28,0,paypal,completed
+10887,1177,2024-09-27,Clothing,Winter Jacket,2,43.97,87.94,15.75,apple_pay,completed
+10888,1179,2024-12-01,Clothing,Hoodie,3,66.21,198.63,12.31,paypal,completed
+10889,1181,2024-10-01,Beauty,Hair Serum,3,52.02,156.06,0,google_pay,completed
+10890,1181,2024-10-01,Beauty,Face Cream,2,105.42,210.84,0,paypal,completed
+10891,1181,2024-10-01,Sports,Dumbbells,1,44.79,44.79,0,credit_card,completed
+10892,1181,2024-10-01,Electronics,Apple Watch,3,842.18,2526.54,0,credit_card,completed
+10893,1181,2024-07-04,Clothing,Cotton T-Shirt,1,67.99,67.99,0,google_pay,completed
+10894,1182,2024-08-28,Beauty,Foundation,3,49.49,148.47,13.69,apple_pay,completed
+10895,1182,2024-08-28,Electronics,iPhone 15,1,2201.95,2201.95,0,credit_card,completed
+10896,1182,2024-08-28,Home,Blender,1,177.17,177.17,24.23,credit_card,completed
+10897,1182,2024-08-28,Electronics,iPhone 15,2,1742.55,3485.1,641.41,google_pay,completed
+10898,1182,2024-12-15,Electronics,Apple Watch,3,2497.35,7492.05,455.91,credit_card,completed
+10899,1182,2024-12-15,Clothing,Dress Shirt,1,40.96,40.96,3.28,apple_pay,completed
+10900,1182,2024-12-15,Home,Table Lamp,1,397.67,397.67,0,google_pay,completed
+10901,1182,2024-12-15,Electronics,Kindle,3,2464.61,7393.83,0,credit_card,completed
+10902,1182,2024-12-15,Sports,Gym Bag,1,37.67,37.67,2.44,credit_card,completed
+10903,1182,2024-12-15,Books,Python Programming,1,44.08,44.08,2.85,credit_card,completed
+10904,1182,2024-12-29,Home,Towel Set,3,349.95,1049.85,0,credit_card,refunded
+10905,1182,2024-12-29,Home,Blender,1,78.03,78.03,0,apple_pay,completed
+10906,1183,2024-10-06,Clothing,Sweater,3,32.51,97.53,7.99,apple_pay,completed
+10907,1183,2024-10-06,Books,Biography,2,43.41,86.82,0,credit_card,completed
+10908,1183,2024-10-06,Electronics,Kindle,2,1651.27,3302.54,0,credit_card,cancelled
+10909,1183,2024-10-25,Clothing,Cotton T-Shirt,3,46.32,138.96,0,credit_card,completed
+10910,1183,2024-10-25,Beauty,Foundation,1,138.05,138.05,0,google_pay,completed
+10911,1183,2024-10-25,Beauty,Lipstick,2,21.1,42.2,0,apple_pay,completed
+10912,1184,2024-12-25,Home,Vacuum Cleaner,3,212.83,638.49,0,paypal,completed
+10913,1184,2024-12-25,Beauty,Body Lotion,2,78.66,157.32,29.91,apple_pay,completed
+10914,1185,2024-07-28,Books,Biography,3,20.29,60.87,0,paypal,refunded
+10915,1185,2024-07-28,Electronics,iPhone 15,2,532.13,1064.26,165.08,google_pay,completed
+10916,1185,2024-07-28,Home,Bed Sheets,1,164.28,164.28,15.51,paypal,completed
+10917,1185,2024-08-13,Beauty,Shampoo,2,33.38,66.76,0,apple_pay,completed
+10918,1185,2024-08-13,Books,Mystery Novel,1,19.36,19.36,2.35,credit_card,completed
+10919,1185,2024-08-13,Home,Table Lamp,1,339.37,339.37,0,google_pay,completed
+10920,1185,2024-08-13,Clothing,Dress Shirt,1,160.74,160.74,0,credit_card,completed
+10921,1185,2024-04-27,Electronics,Apple Watch,2,1490.29,2980.58,0,credit_card,completed
+10922,1185,2024-12-06,Clothing,Running Shoes,1,103.91,103.91,0,credit_card,completed
+10923,1185,2024-12-06,Electronics,iPad Air,3,653.94,1961.82,0,paypal,completed
+10924,1185,2024-12-06,Clothing,Running Shoes,2,21.37,42.74,0,paypal,completed
+10925,1185,2024-12-06,Sports,Tennis Racket,2,298.98,597.96,0,credit_card,completed
+10926,1185,2024-12-06,Electronics,iPhone 15,3,1951.88,5855.64,0,credit_card,completed
+10927,1185,2024-12-06,Clothing,Sneakers,1,145.82,145.82,14.88,apple_pay,completed
+10928,1185,2024-12-06,Clothing,Sneakers,2,185.98,371.96,0,paypal,completed
+10929,1187,2024-03-05,Books,Self Help Book,1,34.58,34.58,3.59,credit_card,completed
+10930,1187,2024-06-25,Sports,Tennis Racket,1,51.25,51.25,0,credit_card,completed
+10931,1187,2024-06-25,Home,Blender,3,135.45,406.35,77.81,credit_card,completed
+10932,1187,2024-06-25,Sports,Resistance Bands,1,238.41,238.41,0,apple_pay,refunded
+10933,1187,2024-06-25,Home,Towel Set,3,180.7,542.1,0,paypal,completed
+10934,1187,2024-08-24,Clothing,Winter Jacket,3,110.79,332.37,0,credit_card,completed
+10935,1187,2024-05-11,Clothing,Sneakers,2,195.64,391.28,0,credit_card,completed
+10936,1187,2024-05-11,Beauty,Foundation,2,88.49,176.98,26.57,google_pay,completed
+10937,1187,2024-05-11,Home,Air Purifier,3,177.92,533.76,0,apple_pay,completed
+10938,1187,2024-05-11,Sports,Resistance Bands,2,274.85,549.7,76.33,credit_card,completed
+10939,1187,2024-08-02,Clothing,Blue Jeans,2,127.49,254.98,0,apple_pay,completed
+10940,1187,2024-08-02,Home,Vacuum Cleaner,3,253.86,761.58,0,credit_card,completed
+10941,1187,2024-08-02,Beauty,Face Cream,2,57.42,114.84,0,apple_pay,completed
+10942,1187,2024-04-10,Books,The Great Novel,1,24.96,24.96,0,paypal,completed
+10943,1187,2024-04-10,Books,Python Programming,2,32.51,65.02,0,paypal,completed
+10944,1187,2024-04-10,Beauty,Face Cream,3,50.41,151.23,0,paypal,completed
+10945,1188,2024-09-13,Home,Table Lamp,2,199.14,398.28,71.27,credit_card,completed
+10946,1188,2024-09-13,Sports,Basketball,3,67.31,201.93,37.39,apple_pay,completed
+10947,1188,2024-09-13,Sports,Yoga Mat,1,92.79,92.79,0,credit_card,completed
+10948,1188,2024-09-13,Beauty,Body Lotion,2,45.78,91.56,12.82,apple_pay,completed
+10949,1190,2024-06-02,Books,Self Help Book,3,46.13,138.39,0,google_pay,completed
+10950,1190,2024-06-02,Electronics,MacBook Pro,2,660.99,1321.98,0,paypal,completed
+10951,1190,2024-06-02,Clothing,Running Shoes,3,162.07,486.21,0,paypal,completed
+10952,1191,2024-11-15,Electronics,iPad Air,3,1482.2,4446.6,572.74,apple_pay,completed
+10953,1191,2024-11-15,Electronics,MacBook Pro,3,1256.18,3768.54,0,credit_card,completed
+10954,1191,2024-05-28,Clothing,Winter Jacket,2,72.19,144.38,0,paypal,completed
+10955,1191,2024-05-28,Electronics,Sony Headphones,1,1195.0,1195.0,0,credit_card,completed
+10956,1191,2024-05-28,Home,Air Purifier,3,94.15,282.45,0,google_pay,completed
+10957,1191,2024-05-28,Electronics,Apple Watch,1,2468.65,2468.65,401.72,credit_card,cancelled
+10958,1193,2024-02-28,Sports,Running Belt,3,27.82,83.46,0,apple_pay,refunded
+10959,1193,2024-02-28,Electronics,MacBook Pro,1,398.18,398.18,0,credit_card,completed
+10960,1193,2024-08-12,Beauty,Foundation,1,63.19,63.19,0,credit_card,completed
+10961,1193,2024-08-12,Sports,Yoga Mat,1,31.51,31.51,0,apple_pay,completed
+10962,1193,2024-01-17,Electronics,Apple Watch,1,704.25,704.25,0,apple_pay,completed
+10963,1193,2024-01-17,Beauty,Nail Polish,1,82.43,82.43,0,apple_pay,refunded
+10964,1193,2024-01-17,Electronics,Kindle,3,2493.5,7480.5,534.06,apple_pay,completed
+10965,1193,2024-01-17,Beauty,Foundation,1,113.78,113.78,0,google_pay,completed
+10966,1193,2024-05-26,Sports,Dumbbells,2,109.15,218.3,0,paypal,completed
+10967,1193,2024-05-26,Books,The Great Novel,3,13.73,41.19,0,paypal,completed
+10968,1193,2024-05-26,Beauty,Shampoo,1,103.8,103.8,11.85,google_pay,completed
+10969,1193,2024-05-26,Home,Coffee Maker,2,94.41,188.82,0,google_pay,completed
+10970,1194,2024-08-21,Clothing,Blue Jeans,3,47.82,143.46,0,apple_pay,completed
+10971,1195,2024-11-04,Sports,Yoga Mat,2,203.06,406.12,58.38,paypal,completed
+10972,1195,2024-11-04,Electronics,Samsung Galaxy S24,2,1351.61,2703.22,0,credit_card,refunded
+10973,1195,2024-11-04,Books,Cookbook,3,26.1,78.3,0,paypal,completed
+10974,1195,2024-11-04,Beauty,Nail Polish,1,85.86,85.86,0,paypal,completed
+10975,1195,2024-04-12,Beauty,Perfume,3,82.23,246.69,0,credit_card,refunded
+10976,1195,2024-04-12,Electronics,Sony Headphones,1,1632.8,1632.8,0,paypal,completed
+10977,1195,2024-04-12,Books,Mystery Novel,1,31.79,31.79,0,paypal,refunded
+10978,1195,2024-04-12,Clothing,Winter Jacket,1,44.78,44.78,0,google_pay,completed
+10979,1196,2024-01-26,Sports,Tennis Racket,1,290.74,290.74,37.89,google_pay,completed
+10980,1196,2024-01-26,Beauty,Foundation,3,80.08,240.24,0,apple_pay,completed
+10981,1196,2024-01-26,Clothing,Running Shoes,1,35.96,35.96,5.4,google_pay,completed
+10982,1196,2024-01-26,Home,Vacuum Cleaner,3,187.35,562.05,0,paypal,completed
+10983,1196,2024-10-17,Electronics,MacBook Pro,2,701.77,1403.54,0,paypal,refunded
+10984,1196,2024-10-17,Clothing,Sweater,2,140.08,280.16,0,google_pay,completed
+10985,1196,2024-10-17,Books,Self Help Book,3,26.65,79.95,0,paypal,completed
+10986,1196,2024-08-23,Sports,Basketball,3,119.4,358.2,0,paypal,completed
+10987,1196,2024-08-23,Home,Coffee Maker,2,243.08,486.16,54.85,apple_pay,completed
+10988,1196,2024-08-23,Electronics,MacBook Pro,3,418.32,1254.96,0,google_pay,completed
+10989,1196,2024-07-21,Beauty,Nail Polish,1,93.83,93.83,0,credit_card,completed
+10990,1196,2024-07-21,Sports,Water Bottle,3,235.85,707.55,0,paypal,completed
+10991,1196,2024-07-21,Electronics,MacBook Pro,3,541.54,1624.62,0,apple_pay,completed
+10992,1196,2024-07-21,Electronics,MacBook Pro,1,2031.33,2031.33,0,credit_card,completed
+10993,1197,2024-06-21,Home,Towel Set,3,238.88,716.64,50.55,apple_pay,completed
+10994,1197,2024-06-21,Beauty,Face Cream,2,15.32,30.64,0,paypal,completed
+10995,1197,2024-06-21,Electronics,Sony Headphones,2,1521.1,3042.2,582.77,paypal,refunded
+10996,1197,2024-03-31,Books,Data Science Guide,3,11.24,33.72,0,apple_pay,completed
+10997,1197,2024-03-31,Electronics,Apple Watch,2,1179.44,2358.88,122.1,paypal,completed
+10998,1198,2023-08-30,Sports,Gym Bag,1,16.23,16.23,0,paypal,completed
+10999,1198,2023-08-30,Electronics,iPhone 15,3,1785.96,5357.88,0,paypal,refunded
+11000,1198,2023-08-11,Home,Air Purifier,1,396.35,396.35,0,google_pay,completed
+11001,1198,2023-08-11,Electronics,MacBook Pro,3,1487.57,4462.71,0,credit_card,completed
+11002,1198,2023-08-11,Beauty,Foundation,2,13.2,26.4,0,apple_pay,completed
+11003,1198,2023-08-11,Books,Data Science Guide,1,31.49,31.49,0,credit_card,completed
+11004,1199,2024-08-29,Clothing,Running Shoes,2,130.89,261.78,16.76,paypal,completed
+11005,1199,2024-06-28,Electronics,iPhone 15,1,537.22,537.22,0,google_pay,completed
+11006,1199,2024-06-28,Home,Coffee Maker,3,353.78,1061.34,0,credit_card,completed
+11007,1199,2024-06-28,Home,Table Lamp,3,54.21,162.63,0,credit_card,completed
+11008,1199,2024-06-23,Books,Biography,3,22.6,67.8,0,paypal,completed
+11009,1199,2024-06-23,Sports,Dumbbells,2,161.27,322.54,0,apple_pay,completed
+11010,1199,2024-06-23,Home,Coffee Maker,1,44.56,44.56,0,google_pay,completed
+11011,1200,2024-09-19,Books,Self Help Book,2,13.4,26.8,3.15,credit_card,completed
+11012,1200,2024-09-19,Sports,Yoga Mat,1,267.36,267.36,39.72,paypal,completed
+11013,1200,2024-09-19,Books,Python Programming,2,12.74,25.48,0,google_pay,refunded
+11014,1182,2024-12-30,Books,Business Strategy,1,30.41,30.41,0,credit_card,completed
+11015,1182,2024-12-30,Beauty,Nail Polish,1,88.11,88.11,6.61,google_pay,completed
+11016,1182,2024-12-30,Books,Cookbook,3,47.01,141.03,0,apple_pay,completed
+11017,1151,2024-11-02,Beauty,Nail Polish,3,81.04,243.12,0,credit_card,completed
+11018,1151,2024-09-24,Electronics,MacBook Pro,1,404.71,404.71,0,paypal,completed
+11019,1151,2024-09-24,Clothing,Dress Shirt,3,71.25,213.75,0,credit_card,completed
+11020,1042,2024-12-03,Beauty,Nail Polish,2,24.87,49.74,0,google_pay,refunded
+11021,1042,2024-12-03,Electronics,Kindle,1,1126.64,1126.64,129.76,google_pay,completed
+11022,1042,2024-12-03,Books,Biography,2,10.63,21.26,0,paypal,completed
+11023,1042,2024-12-21,Electronics,iPhone 15,3,1868.48,5605.44,0,apple_pay,refunded
+11024,1042,2024-12-21,Clothing,Hoodie,3,147.28,441.84,0,paypal,completed
+11025,1042,2024-12-26,Sports,Dumbbells,2,84.26,168.52,0,credit_card,completed
+11026,1031,2024-03-12,Beauty,Foundation,2,18.86,37.72,0,credit_card,completed
+11027,1031,2024-03-12,Electronics,iPad Air,1,1938.49,1938.49,0,paypal,completed
+11028,1031,2024-03-29,Electronics,iPhone 15,1,1181.92,1181.92,0,apple_pay,completed
+11029,1031,2024-04-04,Sports,Water Bottle,3,275.86,827.58,0,paypal,completed
+11030,1031,2024-04-04,Home,Towel Set,1,251.05,251.05,0,google_pay,completed
+11031,1165,2024-11-21,Clothing,Hoodie,3,88.72,266.16,0,paypal,completed
+11032,1165,2024-11-21,Electronics,Dell XPS,1,2372.3,2372.3,365.1,google_pay,completed
+11033,1139,2024-09-12,Sports,Running Belt,2,126.57,253.14,0,paypal,completed
+11034,1139,2024-09-29,Clothing,Dress Shirt,1,26.09,26.09,0,paypal,completed
+11035,1139,2024-09-29,Electronics,Apple Watch,3,408.18,1224.54,0,credit_card,completed
+11036,1139,2024-09-29,Home,Blender,3,37.91,113.73,10.46,google_pay,completed
+11037,1139,2024-08-11,Beauty,Foundation,3,19.81,59.43,0,paypal,completed
+11038,1139,2024-08-11,Home,Bed Sheets,3,365.54,1096.62,0,paypal,completed
+11039,1139,2024-07-29,Electronics,iPhone 15,3,381.98,1145.94,0,paypal,completed
+11040,1155,2024-07-17,Sports,Dumbbells,3,16.01,48.03,8.55,credit_card,completed
+11041,1155,2024-07-17,Clothing,Cotton T-Shirt,2,144.82,289.64,0,paypal,completed
+11042,1128,2024-12-07,Electronics,Sony Headphones,3,784.38,2353.14,0,paypal,completed
+11043,1183,2024-12-24,Sports,Yoga Mat,3,239.04,717.12,0,google_pay,cancelled
+11044,1183,2024-12-28,Sports,Basketball,2,268.93,537.86,88.94,apple_pay,completed
+11045,1183,2024-12-28,Beauty,Foundation,1,148.11,148.11,9.37,paypal,cancelled
+11046,1183,2024-12-05,Sports,Gym Bag,2,279.08,558.16,0,apple_pay,completed
+11047,1183,2024-11-21,Sports,Dumbbells,3,102.59,307.77,0,google_pay,completed
+11048,1076,2024-12-10,Beauty,Shampoo,2,123.28,246.56,0,credit_card,completed
+11049,1076,2024-12-15,Books,Data Science Guide,3,30.23,90.69,7.48,google_pay,refunded
+11050,1076,2024-12-15,Sports,Resistance Bands,1,39.93,39.93,0,paypal,completed
+11051,1076,2024-12-01,Clothing,Running Shoes,1,95.52,95.52,0,credit_card,completed
+11052,1076,2024-12-01,Sports,Tennis Racket,2,197.78,395.56,0,apple_pay,completed
+11053,1076,2024-12-25,Beauty,Face Cream,2,51.93,103.86,0,credit_card,completed
+11054,1076,2024-12-25,Clothing,Sneakers,2,131.05,262.1,0,apple_pay,completed
+11055,1076,2024-12-25,Sports,Water Bottle,2,99.17,198.34,0,apple_pay,completed
+11056,1074,2024-12-30,Beauty,Perfume,1,117.93,117.93,0,google_pay,refunded
+11057,1061,2024-12-13,Clothing,Winter Jacket,1,125.24,125.24,12.88,credit_card,completed
+11058,1061,2024-12-13,Sports,Water Bottle,1,199.11,199.11,19.17,credit_card,completed
+11059,1061,2024-12-13,Beauty,Body Lotion,1,12.6,12.6,0,paypal,completed
+11060,1061,2024-12-16,Books,Mystery Novel,3,27.52,82.56,0,credit_card,completed
+11061,1061,2024-12-16,Clothing,Cotton T-Shirt,1,41.23,41.23,2.99,credit_card,completed
+11062,1061,2024-12-16,Beauty,Hair Serum,3,16.95,50.85,0,credit_card,completed
+11063,1061,2024-12-09,Sports,Resistance Bands,1,297.71,297.71,0,google_pay,completed
+11064,1061,2024-12-09,Sports,Tennis Racket,1,195.05,195.05,0,credit_card,completed
+11065,1061,2024-12-09,Electronics,Kindle,3,729.24,2187.72,375.98,google_pay,completed
+11066,1148,2024-11-04,Beauty,Nail Polish,2,44.77,89.54,14.35,credit_card,completed
+11067,1148,2024-11-04,Beauty,Body Lotion,2,133.13,266.26,0,apple_pay,completed
+11068,1148,2024-11-26,Beauty,Body Lotion,2,104.93,209.86,18.54,google_pay,completed
+11069,1148,2024-11-26,Clothing,Sneakers,3,73.71,221.13,18.32,credit_card,completed
+11070,1148,2024-11-22,Beauty,Hair Serum,3,145.6,436.8,0,paypal,completed
+11071,1148,2024-11-22,Beauty,Perfume,3,39.17,117.51,0,paypal,completed
+11072,1148,2024-12-02,Sports,Gym Bag,3,60.45,181.35,0,google_pay,completed
+11073,1148,2024-12-02,Books,Self Help Book,3,21.53,64.59,0,google_pay,completed
+11074,1148,2024-12-02,Books,Mystery Novel,3,27.84,83.52,15.46,paypal,completed
+11075,1022,2024-12-13,Beauty,Perfume,2,45.41,90.82,10.41,apple_pay,completed
+11076,1022,2024-12-29,Electronics,Sony Headphones,2,2058.36,4116.72,0,paypal,completed
+11077,1022,2024-12-29,Sports,Basketball,2,146.63,293.26,15.02,apple_pay,completed
+11078,1022,2024-12-22,Clothing,Blue Jeans,3,103.14,309.42,0,paypal,completed
+11079,1022,2024-12-22,Sports,Resistance Bands,2,195.32,390.64,58.61,credit_card,refunded
+11080,1022,2024-12-22,Clothing,Blue Jeans,1,94.91,94.91,0,credit_card,cancelled
+11081,1022,2024-12-29,Clothing,Blue Jeans,2,197.64,395.28,0,credit_card,completed
+11082,1022,2024-12-29,Home,Air Purifier,2,112.98,225.96,0,apple_pay,refunded
+11083,1022,2024-12-29,Beauty,Foundation,1,114.83,114.83,0,apple_pay,completed
+11084,1166,2023-12-15,Beauty,Shampoo,1,31.49,31.49,0,apple_pay,completed
+11085,1166,2023-12-15,Clothing,Hoodie,2,52.24,104.48,0,google_pay,completed
+11086,1166,2023-12-15,Beauty,Hair Serum,1,122.44,122.44,0,apple_pay,completed
+11087,1166,2024-02-06,Sports,Tennis Racket,3,218.04,654.12,0,credit_card,completed
+11088,1015,2024-10-28,Electronics,Samsung Galaxy S24,3,809.73,2429.19,0,apple_pay,completed
+11089,1015,2024-10-28,Home,Cookware Set,2,308.65,617.3,0,credit_card,completed
+11090,1015,2024-10-01,Books,Data Science Guide,3,42.81,128.43,0,google_pay,completed
+11091,1015,2024-09-10,Electronics,MacBook Pro,1,1768.16,1768.16,187.75,paypal,completed
+11092,1015,2024-09-10,Books,Self Help Book,1,15.95,15.95,0,credit_card,completed
+11093,1115,2024-12-28,Electronics,iPhone 15,2,1555.24,3110.48,0,paypal,completed
+11094,1115,2024-11-10,Sports,Resistance Bands,1,138.77,138.77,0,apple_pay,completed
+11095,1115,2024-11-12,Home,Vacuum Cleaner,1,367.32,367.32,41.44,credit_card,completed
+11096,1115,2024-11-12,Clothing,Cotton T-Shirt,2,159.7,319.4,41.41,credit_card,completed
+11097,1115,2024-11-12,Home,Cookware Set,1,272.3,272.3,0,apple_pay,completed
+11098,1115,2024-12-04,Books,Self Help Book,2,10.85,21.7,0,paypal,completed
+11099,1010,2024-10-17,Clothing,Sweater,2,157.08,314.16,0,credit_card,completed
+11100,1010,2024-10-17,Electronics,iPad Air,2,1598.03,3196.06,461.21,credit_card,completed
+11101,1120,2024-12-23,Sports,Resistance Bands,1,274.96,274.96,0,paypal,completed
+11102,1120,2024-12-23,Beauty,Nail Polish,2,28.26,56.52,0,google_pay,completed
+11103,1120,2024-12-09,Electronics,Kindle,3,577.32,1731.96,335.99,google_pay,completed
+11104,1120,2024-12-09,Clothing,Running Shoes,3,39.08,117.24,0,credit_card,completed
+11105,1120,2024-12-09,Beauty,Face Cream,3,80.97,242.91,0,paypal,completed
+11106,1080,2024-09-25,Clothing,Hoodie,3,180.98,542.94,63.2,google_pay,completed
+11107,1080,2024-09-25,Books,Python Programming,1,23.36,23.36,0,google_pay,completed
+11108,1080,2024-09-25,Electronics,Kindle,3,941.44,2824.32,454.92,credit_card,completed
+11109,1135,2024-12-29,Home,Cookware Set,1,32.83,32.83,1.67,google_pay,completed
+11110,1135,2024-12-29,Beauty,Foundation,3,79.73,239.19,0,apple_pay,completed
+11111,1135,2024-12-02,Clothing,Sneakers,3,90.96,272.88,15.58,credit_card,completed
+11112,1135,2024-12-30,Beauty,Foundation,2,67.91,135.82,0,apple_pay,completed
+11113,1135,2024-12-30,Beauty,Shampoo,3,109.4,328.2,0,credit_card,completed
+11114,1135,2024-12-30,Electronics,Samsung Galaxy S24,1,2125.23,2125.23,0,credit_card,completed
+11115,1034,2024-12-27,Clothing,Dress Shirt,2,29.82,59.64,0,credit_card,completed
+11116,1048,2024-04-21,Beauty,Lipstick,2,121.06,242.12,0,paypal,completed
+11117,1048,2024-04-21,Beauty,Shampoo,3,64.98,194.94,0,google_pay,completed
+11118,1048,2024-04-21,Clothing,Hoodie,1,61.76,61.76,0,credit_card,completed
+11119,1068,2024-05-14,Books,The Great Novel,2,38.96,77.92,0,google_pay,completed
+11120,1068,2024-05-14,Books,Cookbook,1,10.85,10.85,0,apple_pay,completed
+11121,1068,2024-05-14,Beauty,Shampoo,1,144.41,144.41,17.11,apple_pay,completed
+11122,1068,2024-06-23,Electronics,iPad Air,1,695.67,695.67,0,credit_card,completed
+11123,1068,2024-06-23,Electronics,Samsung Galaxy S24,3,881.63,2644.89,0,apple_pay,completed
+11124,1068,2024-06-05,Books,Data Science Guide,3,24.82,74.46,0,paypal,completed
+11125,1068,2024-06-05,Books,Biography,2,12.13,24.26,0,credit_card,completed
+11126,1068,2024-06-05,Beauty,Hair Serum,1,127.96,127.96,0,credit_card,completed
+11127,1068,2024-04-30,Books,Biography,2,30.76,61.52,6.51,google_pay,completed
+11128,1068,2024-04-30,Electronics,Dell XPS,3,2160.35,6481.05,0,credit_card,completed
+11129,1068,2024-04-30,Clothing,Running Shoes,1,142.73,142.73,23.44,google_pay,completed
+11130,1181,2024-11-18,Books,Biography,1,28.77,28.77,0,apple_pay,completed
+11131,1181,2024-11-18,Beauty,Shampoo,1,122.36,122.36,0,apple_pay,completed
+11132,1100,2024-07-18,Electronics,iPad Air,1,949.15,949.15,0,google_pay,completed
+11133,1100,2024-07-18,Clothing,Hoodie,2,105.26,210.52,22.79,google_pay,completed
+11134,1100,2024-07-18,Sports,Water Bottle,1,76.47,76.47,0,paypal,completed
+11135,1100,2024-04-29,Home,Air Purifier,2,281.68,563.36,47.42,credit_card,completed
+11136,1011,2024-07-26,Beauty,Lipstick,3,147.33,441.99,0,paypal,completed
+11137,1011,2024-07-14,Books,Mystery Novel,3,17.92,53.76,0,credit_card,refunded
+11138,1011,2024-07-01,Beauty,Lipstick,3,24.9,74.7,0,paypal,completed
+11139,1011,2024-07-01,Home,Towel Set,1,220.88,220.88,0,google_pay,completed
+11140,1011,2024-07-01,Beauty,Hair Serum,3,19.32,57.96,5.81,apple_pay,completed
+11141,1108,2024-12-12,Books,The Great Novel,2,15.45,30.9,2.04,apple_pay,completed
+11142,1108,2024-12-12,Sports,Gym Bag,2,295.55,591.1,0,credit_card,completed
+11143,1108,2024-12-12,Electronics,Apple Watch,1,1382.54,1382.54,0,apple_pay,completed
+11144,1108,2024-12-03,Electronics,Apple Watch,1,2123.0,2123.0,0,apple_pay,completed
+11145,1108,2024-12-16,Beauty,Hair Serum,1,69.34,69.34,0,google_pay,completed
+11146,1108,2024-12-14,Electronics,Dell XPS,3,2175.48,6526.44,960.96,credit_card,completed
+11147,1067,2024-12-25,Electronics,Samsung Galaxy S24,1,1713.6,1713.6,0,google_pay,completed
+11148,1067,2024-12-25,Home,Air Purifier,3,286.37,859.11,0,paypal,completed
+11149,1067,2024-12-25,Books,Python Programming,1,12.08,12.08,0,apple_pay,completed
+11150,1067,2024-12-29,Home,Coffee Maker,1,205.2,205.2,0,apple_pay,completed
+11151,1067,2024-12-14,Sports,Tennis Racket,2,212.34,424.68,73.49,credit_card,completed
+11152,1067,2024-12-14,Clothing,Sweater,2,198.85,397.7,0,paypal,completed
+11153,1067,2024-12-06,Electronics,Kindle,2,452.43,904.86,0,apple_pay,completed
+11154,1067,2024-12-06,Sports,Dumbbells,3,224.89,674.67,129.74,google_pay,completed
+11155,1081,2024-12-02,Beauty,Lipstick,3,37.74,113.22,7.72,paypal,completed
+11156,1081,2024-12-11,Home,Table Lamp,1,334.18,334.18,44.52,credit_card,completed
+11157,1081,2024-12-11,Home,Bed Sheets,1,316.11,316.11,0,google_pay,completed
+11158,1081,2024-12-18,Beauty,Body Lotion,3,18.32,54.96,0,apple_pay,completed
+11159,1081,2024-12-18,Home,Towel Set,1,261.97,261.97,14.36,paypal,cancelled
+11160,1081,2024-12-18,Beauty,Shampoo,2,78.23,156.46,12.24,credit_card,completed
+11161,1081,2024-12-18,Electronics,Samsung Galaxy S24,1,773.74,773.74,0,google_pay,completed
+11162,1081,2024-12-18,Books,The Great Novel,2,36.7,73.4,0,apple_pay,completed
+11163,1081,2024-12-18,Electronics,MacBook Pro,2,590.73,1181.46,0,apple_pay,completed
+11164,1062,2024-12-14,Clothing,Blue Jeans,2,140.27,280.54,0,google_pay,completed
+11165,1062,2024-12-14,Home,Table Lamp,1,63.83,63.83,0,apple_pay,completed
+11166,1062,2024-12-14,Home,Table Lamp,1,138.72,138.72,25.09,credit_card,completed
+11167,1085,2024-12-23,Electronics,Sony Headphones,2,1203.98,2407.96,459.19,google_pay,completed
+11168,1085,2024-12-23,Beauty,Shampoo,2,69.06,138.12,0,apple_pay,completed
+11169,1085,2024-12-21,Home,Air Purifier,3,228.49,685.47,126.53,apple_pay,completed
+11170,1085,2024-12-21,Home,Vacuum Cleaner,2,339.35,678.7,103.61,paypal,completed
+11171,1127,2023-07-13,Electronics,iPhone 15,3,738.19,2214.57,0,paypal,completed
+11172,1127,2023-07-13,Beauty,Lipstick,1,98.88,98.88,0,google_pay,completed
+11173,1127,2023-07-13,Books,Biography,3,15.93,47.79,0,paypal,completed
+11174,1127,2023-09-10,Electronics,Sony Headphones,1,2135.48,2135.48,0,paypal,completed
+11175,1127,2023-09-10,Sports,Yoga Mat,3,240.23,720.69,69.06,paypal,completed
+11176,1127,2023-08-10,Books,Biography,3,16.11,48.33,4.38,apple_pay,completed
+11177,1127,2023-09-08,Sports,Tennis Racket,1,88.09,88.09,0,google_pay,completed
+11178,1127,2023-09-08,Books,Self Help Book,3,10.49,31.47,0,apple_pay,completed
+11179,1127,2023-09-08,Clothing,Dress Shirt,1,149.94,149.94,0,paypal,refunded
+11180,1028,2024-09-10,Books,Self Help Book,1,22.6,22.6,3.09,apple_pay,completed
+11181,1028,2024-10-14,Books,The Great Novel,1,31.77,31.77,4.47,apple_pay,refunded
+11182,1028,2024-10-14,Home,Air Purifier,2,251.35,502.7,60.6,apple_pay,completed
+11183,1028,2024-09-25,Sports,Tennis Racket,1,25.69,25.69,0,apple_pay,completed
+11184,1167,2024-04-13,Books,Business Strategy,2,48.44,96.88,13.72,google_pay,completed
+11185,1167,2024-04-13,Sports,Gym Bag,2,142.79,285.58,0,google_pay,completed
+11186,1167,2024-04-13,Electronics,Apple Watch,3,533.28,1599.84,285.2,google_pay,completed
+11187,1167,2024-04-17,Electronics,Sony Headphones,3,1267.69,3803.07,0,paypal,completed
+11188,1070,2024-12-27,Books,Cookbook,2,25.75,51.5,2.58,google_pay,completed
+11189,1070,2024-12-27,Electronics,Samsung Galaxy S24,2,1380.07,2760.14,0,paypal,completed
+11190,1070,2024-12-21,Clothing,Sneakers,3,178.77,536.31,73.11,apple_pay,completed
+11191,1070,2024-12-21,Home,Coffee Maker,3,153.0,459.0,0,paypal,completed
+11192,1070,2024-12-21,Books,Mystery Novel,2,10.82,21.64,3.51,paypal,completed
+11193,1070,2024-12-17,Books,Data Science Guide,2,41.06,82.12,0,paypal,refunded
+11194,1047,2024-10-05,Clothing,Sneakers,3,198.82,596.46,0,google_pay,completed
+11195,1047,2024-10-05,Home,Blender,3,181.17,543.51,69.35,paypal,completed
+11196,1047,2024-10-05,Beauty,Hair Serum,3,130.94,392.82,0,apple_pay,completed
+11197,1047,2024-10-26,Beauty,Shampoo,1,117.46,117.46,8.36,google_pay,completed
+11198,1047,2024-12-13,Electronics,Dell XPS,1,1969.0,1969.0,0,apple_pay,completed
+11199,1047,2024-12-13,Clothing,Sweater,2,82.05,164.1,0,paypal,completed
+11200,1069,2024-08-11,Clothing,Blue Jeans,1,153.52,153.52,0,apple_pay,completed
+11201,1069,2024-08-11,Clothing,Dress Shirt,2,110.56,221.12,0,paypal,completed
+11202,1069,2024-07-30,Sports,Dumbbells,3,288.49,865.47,0,google_pay,completed
+11203,1069,2024-07-12,Beauty,Face Cream,2,132.94,265.88,48.63,apple_pay,completed
+11204,1069,2024-07-12,Books,Cookbook,2,15.92,31.84,0,paypal,completed
+11205,1069,2024-08-20,Sports,Resistance Bands,3,26.68,80.04,0,google_pay,refunded
+11206,1069,2024-08-20,Books,Self Help Book,2,47.65,95.3,13.53,paypal,completed
+11207,1044,2024-11-14,Home,Vacuum Cleaner,3,160.03,480.09,0,apple_pay,completed
+11208,1044,2024-11-14,Electronics,Dell XPS,2,1155.45,2310.9,0,credit_card,completed
+11209,1044,2024-11-14,Home,Vacuum Cleaner,1,383.57,383.57,0,credit_card,completed
+11210,1044,2024-10-20,Books,Mystery Novel,1,20.92,20.92,0,paypal,completed
+11211,1044,2024-10-20,Beauty,Foundation,1,97.21,97.21,0,credit_card,completed
+11212,1044,2024-10-20,Sports,Basketball,3,24.51,73.53,0,paypal,completed
+11213,1044,2024-10-11,Home,Table Lamp,2,119.34,238.68,40.59,google_pay,completed
+11214,1044,2024-10-11,Home,Air Purifier,2,381.92,763.84,137.29,google_pay,completed
+11215,1044,2024-10-11,Books,The Great Novel,3,36.34,109.02,17.92,credit_card,completed
+11216,1154,2024-12-30,Beauty,Shampoo,1,20.21,20.21,0,apple_pay,completed
+11217,1154,2024-12-30,Books,Python Programming,1,33.0,33.0,4.13,google_pay,completed
+11218,1154,2024-12-30,Home,Blender,1,231.62,231.62,0,paypal,completed
+11219,1154,2024-12-05,Books,Biography,1,21.48,21.48,0,credit_card,completed
+11220,1154,2024-12-05,Sports,Gym Bag,3,153.27,459.81,0,google_pay,completed
+11221,1154,2024-12-09,Books,Data Science Guide,3,33.56,100.68,15.79,apple_pay,completed
+11222,1154,2024-12-09,Sports,Resistance Bands,1,164.6,164.6,0,paypal,completed
+11223,1154,2024-12-09,Beauty,Foundation,3,43.72,131.16,17.86,google_pay,completed
+11224,1105,2024-11-21,Home,Towel Set,3,118.53,355.59,0,paypal,completed
+11225,1105,2024-11-21,Electronics,Sony Headphones,1,1079.02,1079.02,0,google_pay,completed
+11226,1105,2024-12-29,Books,Self Help Book,2,43.7,87.4,0,credit_card,completed
+11227,1105,2024-12-29,Home,Towel Set,3,303.04,909.12,0,apple_pay,completed
+11228,1105,2024-12-27,Electronics,Dell XPS,2,1631.56,3263.12,0,paypal,completed
+11229,1116,2024-01-15,Beauty,Foundation,2,147.92,295.84,0,google_pay,completed
+11230,1116,2024-01-15,Books,Self Help Book,2,28.16,56.32,0,paypal,completed
+11231,1116,2023-12-28,Sports,Tennis Racket,1,55.14,55.14,0,google_pay,completed
+11232,1196,2024-12-04,Home,Air Purifier,3,375.2,1125.6,117.85,credit_card,completed
+11233,1196,2024-12-28,Sports,Resistance Bands,2,264.02,528.04,30.99,apple_pay,completed
+11234,1196,2024-12-28,Beauty,Shampoo,1,145.04,145.04,0,apple_pay,completed
+11235,1196,2024-12-28,Sports,Dumbbells,2,145.84,291.68,22.36,credit_card,completed
+11236,1196,2024-12-23,Sports,Dumbbells,3,268.19,804.57,128.61,credit_card,cancelled
+11237,1196,2024-12-23,Home,Bed Sheets,1,124.87,124.87,24.64,paypal,completed
+11238,1195,2024-12-02,Sports,Water Bottle,3,253.9,761.7,134.86,credit_card,completed
+11239,1195,2024-12-02,Clothing,Winter Jacket,3,75.59,226.77,0,credit_card,completed
+11240,1138,2023-09-26,Books,Python Programming,1,18.98,18.98,0,apple_pay,completed
+11241,1138,2023-09-26,Clothing,Blue Jeans,1,76.73,76.73,0,apple_pay,completed
+11242,1138,2023-09-26,Home,Coffee Maker,2,192.15,384.3,0,credit_card,completed
+11243,1094,2024-09-08,Sports,Basketball,3,233.13,699.39,0,google_pay,completed
+11244,1094,2024-09-08,Clothing,Dress Shirt,2,196.83,393.66,0,paypal,completed
+11245,1094,2024-09-08,Sports,Dumbbells,1,130.48,130.48,0,apple_pay,refunded
+11246,1094,2024-09-05,Electronics,Apple Watch,2,1804.76,3609.52,677.16,credit_card,completed
+11247,1094,2024-09-15,Beauty,Hair Serum,3,64.13,192.39,0,paypal,completed
+11248,1094,2024-08-13,Home,Vacuum Cleaner,3,74.69,224.07,0,paypal,completed
+11249,1094,2024-08-13,Clothing,Winter Jacket,3,164.9,494.7,0,paypal,completed
+11250,1094,2024-08-13,Beauty,Hair Serum,3,89.88,269.64,0,paypal,completed
+11251,1030,2024-12-12,Electronics,iPhone 15,1,1058.58,1058.58,0,apple_pay,completed
+11252,1030,2024-12-12,Books,Data Science Guide,1,31.05,31.05,0,paypal,completed
+11253,1030,2024-12-12,Clothing,Blue Jeans,1,191.83,191.83,0,apple_pay,refunded
+11254,1030,2024-12-20,Books,Data Science Guide,2,41.2,82.4,0,paypal,refunded
+11255,1030,2024-12-20,Sports,Resistance Bands,1,98.85,98.85,0,credit_card,completed
+11256,1030,2024-12-20,Home,Coffee Maker,3,373.01,1119.03,215.03,google_pay,completed
+11257,1030,2024-12-21,Electronics,MacBook Pro,1,875.72,875.72,0,apple_pay,completed
+11258,1030,2024-12-21,Books,Self Help Book,2,47.18,94.36,0,apple_pay,cancelled
+11259,1030,2024-12-21,Electronics,iPhone 15,2,2214.37,4428.74,0,apple_pay,cancelled
+11260,1053,2024-12-08,Clothing,Blue Jeans,1,181.1,181.1,0,google_pay,completed
+11261,1053,2024-12-08,Clothing,Cotton T-Shirt,3,119.6,358.8,0,google_pay,refunded
+11262,1053,2024-12-19,Beauty,Foundation,1,40.22,40.22,0,paypal,completed
+11263,1053,2024-12-19,Clothing,Blue Jeans,1,197.61,197.61,35.61,credit_card,completed
+11264,1053,2024-12-15,Home,Towel Set,1,307.86,307.86,0,credit_card,completed
+11265,1053,2024-12-15,Clothing,Sneakers,1,155.79,155.79,27.81,apple_pay,completed
+11266,1053,2024-12-15,Beauty,Foundation,3,35.08,105.24,9.84,credit_card,completed
+11267,1053,2024-12-16,Beauty,Face Cream,2,43.97,87.94,0,apple_pay,completed
+11268,1053,2024-12-16,Electronics,Apple Watch,2,772.12,1544.24,0,paypal,completed
+11269,1053,2024-12-16,Clothing,Hoodie,2,20.41,40.82,0,google_pay,completed
+11270,1142,2024-08-22,Beauty,Lipstick,3,134.06,402.18,0,paypal,completed
+11271,1142,2024-08-22,Clothing,Running Shoes,3,115.57,346.71,0,paypal,completed
+11272,1142,2024-07-30,Home,Air Purifier,1,190.61,190.61,0,apple_pay,completed
+11273,1142,2024-09-03,Books,Cookbook,3,9.74,29.22,2.68,paypal,completed
+11274,1142,2024-09-03,Books,Self Help Book,3,20.23,60.69,0,apple_pay,completed
+11275,1142,2024-07-29,Clothing,Sneakers,3,55.12,165.36,16.26,apple_pay,completed
+11276,1073,2024-12-10,Sports,Water Bottle,2,167.64,335.28,0,credit_card,completed
+11277,1073,2024-12-10,Beauty,Perfume,3,64.85,194.55,36.82,apple_pay,completed
+11278,1073,2024-12-10,Electronics,Samsung Galaxy S24,3,1660.4,4981.2,0,apple_pay,completed
+11279,1073,2024-12-24,Home,Cookware Set,1,312.98,312.98,36.11,google_pay,completed
+11280,1073,2024-12-24,Books,Biography,1,46.41,46.41,0,paypal,completed
+11281,1190,2024-08-15,Electronics,Samsung Galaxy S24,2,2024.42,4048.84,254.59,google_pay,completed
+11282,1190,2024-07-01,Home,Vacuum Cleaner,1,223.0,223.0,37.64,paypal,completed
+11283,1190,2024-08-12,Books,The Great Novel,3,34.14,102.42,11.82,credit_card,completed
+11284,1190,2024-08-12,Beauty,Face Cream,2,13.11,26.22,0,credit_card,refunded
+11285,1117,2024-12-03,Books,Business Strategy,2,40.78,81.56,0,google_pay,completed
+11286,1025,2024-01-18,Home,Table Lamp,2,354.88,709.76,0,google_pay,completed
+11287,1025,2024-01-18,Electronics,Apple Watch,2,2181.74,4363.48,757.96,paypal,completed
+11288,1017,2024-04-21,Beauty,Body Lotion,3,40.25,120.75,21.48,credit_card,completed
+11289,1017,2024-04-17,Beauty,Lipstick,3,84.71,254.13,28.29,paypal,completed
+11290,1017,2024-04-17,Sports,Resistance Bands,3,27.09,81.27,14.78,apple_pay,refunded
+11291,1017,2024-04-17,Beauty,Foundation,3,45.69,137.07,0,apple_pay,completed
+11292,1017,2024-05-14,Clothing,Winter Jacket,1,88.53,88.53,0,apple_pay,completed
+11293,1017,2024-05-14,Books,Cookbook,3,29.48,88.44,0,google_pay,completed
+11294,1017,2024-05-14,Sports,Yoga Mat,2,250.76,501.52,0,credit_card,completed
+11295,1017,2024-06-20,Electronics,Kindle,2,1123.22,2246.44,0,apple_pay,completed
+11296,1017,2024-06-20,Home,Blender,2,252.49,504.98,0,credit_card,completed
+11297,1017,2024-06-20,Books,Self Help Book,3,30.66,91.98,0,paypal,completed
+11298,1088,2024-05-17,Home,Towel Set,2,189.72,379.44,0,credit_card,completed
+11299,1088,2024-05-17,Books,The Great Novel,2,22.05,44.1,3.95,paypal,completed
+11300,1088,2024-04-13,Books,Cookbook,3,28.71,86.13,0,paypal,completed
+11301,1088,2024-03-23,Electronics,Sony Headphones,3,2187.91,6563.73,0,paypal,completed
+11302,1088,2024-03-23,Home,Blender,2,106.89,213.78,0,credit_card,completed
+11303,1088,2024-03-23,Beauty,Face Cream,1,28.86,28.86,0,google_pay,completed
+11304,1126,2024-12-11,Clothing,Winter Jacket,3,66.23,198.69,0,apple_pay,completed
+11305,1126,2024-12-11,Home,Towel Set,3,153.6,460.8,0,apple_pay,completed
+11306,1126,2024-12-21,Books,Mystery Novel,3,23.96,71.88,0,paypal,completed
+11307,1090,2023-12-29,Home,Cookware Set,2,233.49,466.98,70.57,apple_pay,completed
+11308,1090,2023-12-29,Books,Self Help Book,2,23.49,46.98,0,google_pay,completed
+11309,1090,2023-12-29,Electronics,MacBook Pro,3,2000.51,6001.53,0,paypal,completed
+11310,1090,2024-02-01,Clothing,Cotton T-Shirt,3,151.49,454.47,66.22,apple_pay,completed
+11311,1064,2024-11-25,Home,Bed Sheets,3,397.92,1193.76,0,apple_pay,completed
+11312,1102,2023-10-08,Beauty,Foundation,2,29.05,58.1,0,apple_pay,completed
+11313,1102,2023-10-08,Electronics,Dell XPS,2,2364.43,4728.86,0,credit_card,completed
+11314,1102,2023-08-09,Electronics,Dell XPS,3,2113.22,6339.66,0,apple_pay,completed
+11315,1102,2023-08-09,Sports,Yoga Mat,3,255.37,766.11,88.68,google_pay,completed
+11316,1102,2023-09-21,Beauty,Perfume,3,16.58,49.74,0,paypal,completed
+11317,1102,2023-09-21,Sports,Resistance Bands,2,208.09,416.18,0,credit_card,completed
+11318,1102,2023-09-21,Beauty,Body Lotion,3,123.03,369.09,0,google_pay,completed
+11319,1102,2023-09-19,Beauty,Foundation,2,148.76,297.52,36.6,apple_pay,completed
+11320,1102,2023-09-19,Beauty,Hair Serum,1,79.0,79.0,0,paypal,completed
+11321,1008,2023-06-26,Clothing,Sneakers,1,154.59,154.59,0,paypal,completed
+11322,1008,2023-06-22,Books,Self Help Book,1,28.7,28.7,0,google_pay,completed
+11323,1008,2023-06-22,Books,Business Strategy,2,28.19,56.38,7.62,credit_card,completed
+11324,1008,2023-06-22,Beauty,Perfume,3,143.97,431.91,0,credit_card,completed
+11325,1008,2023-06-22,Beauty,Foundation,2,118.06,236.12,0,paypal,completed
+11326,1008,2023-06-22,Books,The Great Novel,3,15.96,47.88,3.7,google_pay,cancelled
+11327,1191,2024-12-05,Home,Blender,1,356.95,356.95,45.86,credit_card,completed
+11328,1191,2024-12-05,Electronics,MacBook Pro,3,581.53,1744.59,0,credit_card,completed
+11329,1191,2024-12-05,Home,Vacuum Cleaner,2,349.69,699.38,43.64,google_pay,completed
+11330,1191,2024-12-12,Home,Table Lamp,2,390.4,780.8,91.92,apple_pay,completed
+11331,1158,2024-03-09,Clothing,Running Shoes,2,142.56,285.12,0,credit_card,completed
+11332,1158,2024-03-09,Electronics,Samsung Galaxy S24,3,1470.11,4410.33,819.28,paypal,completed
+11333,1158,2024-03-09,Books,Cookbook,1,29.45,29.45,0,credit_card,completed
+11334,1158,2024-02-17,Beauty,Shampoo,3,93.26,279.78,0,google_pay,refunded
+11335,1158,2024-02-17,Sports,Basketball,1,167.52,167.52,30.04,apple_pay,refunded
+11336,1158,2024-02-17,Books,Data Science Guide,1,10.12,10.12,0,paypal,completed
+11337,1158,2024-02-16,Home,Table Lamp,1,361.78,361.78,0,paypal,completed
+11338,1158,2024-03-11,Clothing,Blue Jeans,3,105.7,317.1,59.62,google_pay,completed
+11339,1156,2024-12-30,Beauty,Nail Polish,2,26.85,53.7,0,google_pay,completed
+11340,1156,2024-12-30,Clothing,Sneakers,1,105.97,105.97,0,credit_card,completed
+11341,1051,2024-12-07,Books,Data Science Guide,1,20.28,20.28,0,credit_card,completed
+11342,1051,2024-12-22,Sports,Gym Bag,3,78.15,234.45,0,paypal,completed
+11343,1051,2024-12-03,Beauty,Body Lotion,2,47.17,94.34,0,credit_card,completed
+11344,1051,2024-12-03,Books,The Great Novel,2,37.72,75.44,0,credit_card,completed
+11345,1051,2024-12-05,Sports,Yoga Mat,3,219.29,657.87,96.56,paypal,completed
+11346,1051,2024-12-05,Home,Blender,3,384.69,1154.07,0,credit_card,completed
+11347,1162,2024-12-12,Clothing,Hoodie,3,44.6,133.8,0,google_pay,refunded
+11348,1162,2024-12-25,Home,Air Purifier,1,250.39,250.39,0,paypal,completed
+11349,1162,2024-12-25,Electronics,MacBook Pro,1,547.78,547.78,0,credit_card,refunded
+11350,1162,2024-12-25,Sports,Water Bottle,2,240.12,480.24,0,paypal,completed
+11351,1149,2024-11-30,Clothing,Dress Shirt,1,141.84,141.84,0,google_pay,completed
+11352,1149,2024-11-30,Home,Towel Set,1,356.59,356.59,0,apple_pay,completed
+11353,1149,2024-11-30,Home,Table Lamp,2,241.35,482.7,75.25,paypal,completed
+11354,1149,2024-10-24,Electronics,Samsung Galaxy S24,1,2302.94,2302.94,0,apple_pay,completed
+11355,1149,2024-10-24,Home,Towel Set,3,242.93,728.79,73.48,google_pay,completed
+11356,1101,2024-06-10,Electronics,Kindle,3,358.02,1074.06,0,google_pay,completed
+11357,1101,2024-06-10,Electronics,Sony Headphones,1,584.05,584.05,90.41,credit_card,completed
+11358,1091,2024-03-19,Clothing,Sneakers,1,62.03,62.03,0,google_pay,completed
+11359,1091,2024-03-19,Books,Cookbook,2,43.63,87.26,0,google_pay,completed
+11360,1091,2024-03-19,Home,Air Purifier,2,149.1,298.2,52.61,google_pay,refunded
+11361,1091,2024-03-16,Beauty,Nail Polish,1,18.11,18.11,0,google_pay,completed
+11362,1091,2024-04-13,Books,Self Help Book,2,13.65,27.3,0,credit_card,completed
+11363,1091,2024-04-13,Sports,Basketball,3,263.0,789.0,0,credit_card,completed
+11364,1091,2024-04-25,Home,Bed Sheets,1,345.88,345.88,25.71,apple_pay,completed
+11365,1110,2024-12-17,Electronics,Samsung Galaxy S24,1,1364.06,1364.06,164.91,google_pay,completed
+11366,1110,2024-12-21,Beauty,Body Lotion,2,58.77,117.54,0,google_pay,completed
+11367,1110,2024-12-21,Clothing,Running Shoes,2,141.96,283.92,0,apple_pay,completed
+11368,1110,2024-12-21,Beauty,Face Cream,1,91.46,91.46,0,google_pay,completed
+11369,1110,2024-12-03,Beauty,Hair Serum,1,127.47,127.47,0,paypal,completed
+11370,1110,2024-12-03,Beauty,Hair Serum,1,41.93,41.93,0,google_pay,completed
+11371,1037,2024-12-06,Books,Cookbook,2,32.85,65.7,0,paypal,completed
+11372,1037,2024-12-06,Sports,Gym Bag,1,121.85,121.85,0,google_pay,completed
+11373,1001,2024-09-19,Books,Business Strategy,2,13.93,27.86,0,paypal,completed
+11374,1036,2024-12-13,Clothing,Dress Shirt,1,48.51,48.51,0,paypal,refunded
+11375,1036,2024-12-13,Electronics,MacBook Pro,1,1655.92,1655.92,145.45,google_pay,completed
+11376,1036,2024-12-13,Beauty,Face Cream,2,89.54,179.08,27.96,credit_card,completed
+11377,1112,2024-12-19,Clothing,Cotton T-Shirt,2,97.78,195.56,19.26,apple_pay,completed
+11378,1112,2024-12-19,Electronics,MacBook Pro,3,1055.0,3165.0,0,credit_card,completed
+11379,1112,2024-12-19,Books,Self Help Book,2,30.24,60.48,6.08,apple_pay,completed
+11380,1112,2024-12-27,Sports,Yoga Mat,2,62.35,124.7,0,paypal,completed
+11381,1112,2024-12-05,Home,Air Purifier,2,180.77,361.54,70.71,credit_card,completed
+11382,1112,2024-12-13,Sports,Water Bottle,3,127.72,383.16,0,paypal,completed
+11383,1112,2024-12-13,Clothing,Winter Jacket,1,178.79,178.79,9.86,apple_pay,completed
+11384,1157,2024-06-25,Sports,Running Belt,3,245.36,736.08,0,paypal,completed
+11385,1157,2024-07-08,Clothing,Winter Jacket,2,163.26,326.52,44.12,paypal,completed
+11386,1157,2024-07-08,Sports,Dumbbells,2,275.06,550.12,0,credit_card,completed
+11387,1157,2024-06-26,Clothing,Cotton T-Shirt,1,116.54,116.54,0,credit_card,completed
+11388,1157,2024-06-13,Beauty,Face Cream,1,84.21,84.21,0,paypal,completed
+11389,1143,2024-12-09,Beauty,Face Cream,1,111.07,111.07,0,apple_pay,completed
+11390,1066,2024-09-25,Sports,Water Bottle,3,54.05,162.15,9.77,apple_pay,completed
+11391,1066,2024-09-25,Books,Biography,1,43.98,43.98,0,credit_card,completed
+11392,1111,2024-09-16,Beauty,Nail Polish,2,49.78,99.56,8.41,credit_card,completed
+11393,1111,2024-09-16,Books,Mystery Novel,2,38.4,76.8,13.11,apple_pay,completed
+11394,1111,2024-10-29,Clothing,Cotton T-Shirt,3,118.97,356.91,0,credit_card,completed
+11395,1111,2024-10-29,Books,The Great Novel,1,43.58,43.58,0,paypal,cancelled
+11396,1111,2024-09-24,Books,Cookbook,1,19.72,19.72,0,credit_card,completed
+11397,1140,2024-12-27,Electronics,Samsung Galaxy S24,3,1250.03,3750.09,0,google_pay,completed
+11398,1140,2024-12-27,Beauty,Lipstick,1,96.59,96.59,0,credit_card,completed
+11399,1140,2024-12-03,Clothing,Sneakers,1,61.89,61.89,12.1,credit_card,completed
+11400,1140,2024-12-03,Home,Air Purifier,2,245.63,491.26,0,credit_card,completed
+11401,1140,2024-12-03,Home,Cookware Set,2,328.91,657.82,0,google_pay,completed
+11402,1140,2024-12-21,Clothing,Blue Jeans,2,79.16,158.32,15.1,apple_pay,completed
+11403,1140,2024-12-21,Clothing,Dress Shirt,3,164.93,494.79,68.0,paypal,completed
+11404,1140,2024-12-21,Home,Blender,3,371.5,1114.5,0,apple_pay,completed
+11405,1140,2024-12-05,Beauty,Nail Polish,1,116.08,116.08,0,google_pay,completed
+11406,1140,2024-12-05,Books,Data Science Guide,2,20.88,41.76,0,apple_pay,completed
+11407,1132,2024-12-26,Sports,Water Bottle,1,186.42,186.42,19.44,google_pay,completed
+11408,1132,2024-12-26,Beauty,Perfume,1,134.52,134.52,19.79,credit_card,completed
+11409,1132,2024-11-05,Sports,Yoga Mat,3,99.3,297.9,0,google_pay,completed
+11410,1132,2024-11-05,Electronics,iPhone 15,3,408.65,1225.95,0,google_pay,completed
+11411,1132,2024-11-22,Clothing,Sweater,2,41.94,83.88,9.3,paypal,completed
+11412,1132,2024-11-22,Clothing,Sneakers,2,125.9,251.8,20.93,paypal,completed
+11413,1032,2024-12-06,Beauty,Perfume,3,145.51,436.53,66.27,paypal,completed
+11414,1193,2024-09-05,Clothing,Running Shoes,2,74.93,149.86,0,apple_pay,completed
+11415,1193,2024-09-05,Books,The Great Novel,1,34.37,34.37,0,paypal,completed
+11416,1145,2024-12-11,Beauty,Perfume,2,121.75,243.5,0,paypal,completed
+11417,1145,2024-12-11,Beauty,Body Lotion,3,69.16,207.48,0,google_pay,completed
+11418,1145,2024-12-11,Electronics,iPad Air,1,2197.7,2197.7,0,google_pay,completed
+11419,1145,2024-12-07,Books,Business Strategy,2,21.98,43.96,0,credit_card,completed
+11420,1145,2024-12-07,Sports,Yoga Mat,3,290.87,872.61,0,google_pay,completed
+11421,1084,2023-07-10,Home,Table Lamp,1,196.1,196.1,0,apple_pay,completed
+11422,1084,2023-07-10,Home,Table Lamp,3,376.19,1128.57,104.53,credit_card,completed
+11423,1084,2023-07-10,Books,Cookbook,3,14.74,44.22,2.62,apple_pay,completed
+11424,1084,2023-08-05,Clothing,Cotton T-Shirt,2,191.07,382.14,0,credit_card,completed
+11425,1084,2023-08-05,Home,Cookware Set,1,302.56,302.56,0,apple_pay,completed
+11426,1084,2023-08-05,Clothing,Sweater,3,143.9,431.7,0,credit_card,completed
+11427,1084,2023-07-30,Electronics,Kindle,1,908.92,908.92,0,paypal,completed
+11428,1084,2023-07-08,Clothing,Hoodie,2,37.26,74.52,0,google_pay,completed
+11429,1198,2023-09-11,Sports,Resistance Bands,1,217.94,217.94,0,paypal,completed
+11430,1198,2023-09-11,Home,Coffee Maker,2,367.87,735.74,0,paypal,completed
+11431,1198,2023-09-11,Home,Blender,1,209.37,209.37,0,apple_pay,refunded
+11432,1198,2023-11-16,Electronics,Sony Headphones,3,2493.87,7481.61,0,apple_pay,completed
+11433,1198,2023-11-16,Home,Bed Sheets,2,55.35,110.7,0,apple_pay,completed
+11434,1198,2023-09-20,Home,Air Purifier,3,325.29,975.87,0,credit_card,completed
+11435,1171,2024-03-21,Home,Coffee Maker,2,293.73,587.46,0,apple_pay,completed
+11436,1171,2024-03-21,Electronics,Kindle,1,1032.0,1032.0,0,apple_pay,completed
+11437,1171,2024-03-21,Books,Python Programming,2,26.29,52.58,0,paypal,refunded
+11438,1114,2024-12-23,Books,Python Programming,3,25.42,76.26,4.66,apple_pay,completed
+11439,1114,2024-12-23,Clothing,Blue Jeans,1,101.48,101.48,9.83,credit_card,completed
+11440,1114,2024-12-23,Home,Bed Sheets,3,328.21,984.63,0,google_pay,completed
+11441,1114,2024-12-02,Home,Air Purifier,3,108.84,326.52,17.5,credit_card,refunded
+11442,1007,2024-09-07,Electronics,Sony Headphones,2,1911.02,3822.04,611.15,google_pay,completed
+11443,1187,2024-11-10,Clothing,Blue Jeans,2,162.86,325.72,48.36,paypal,completed
+11444,1187,2024-11-10,Sports,Dumbbells,2,289.6,579.2,0,apple_pay,completed
+11445,1187,2024-11-10,Electronics,iPad Air,2,2347.12,4694.24,0,credit_card,completed
+11446,1033,2024-10-14,Sports,Running Belt,2,150.93,301.86,0,paypal,completed
+11447,1033,2024-10-14,Beauty,Nail Polish,1,124.9,124.9,24.67,apple_pay,completed
+11448,1033,2024-10-29,Beauty,Foundation,2,40.88,81.76,0,paypal,completed
+11449,1033,2024-09-05,Clothing,Blue Jeans,2,127.66,255.32,32.7,apple_pay,completed
+11450,1033,2024-09-05,Electronics,Sony Headphones,2,2448.27,4896.54,0,google_pay,completed
+11451,1033,2024-09-05,Electronics,Sony Headphones,2,1356.77,2713.54,0,google_pay,refunded
+11452,1033,2024-11-08,Beauty,Hair Serum,2,63.04,126.08,12.69,credit_card,completed
+11453,1033,2024-11-08,Electronics,Apple Watch,2,1078.51,2157.02,0,apple_pay,completed
+11454,1033,2024-11-08,Books,Business Strategy,2,18.96,37.92,4.76,google_pay,refunded
+11455,1144,2024-12-01,Electronics,iPhone 15,1,1067.88,1067.88,108.83,paypal,completed
+11456,1144,2024-12-05,Beauty,Nail Polish,2,120.86,241.72,0,google_pay,completed
+11457,1144,2024-12-05,Books,Cookbook,1,32.68,32.68,0,apple_pay,completed
+11458,1194,2024-11-09,Beauty,Lipstick,1,128.74,128.74,0,paypal,completed
+11459,1194,2024-11-09,Home,Table Lamp,2,147.86,295.72,0,apple_pay,cancelled
+11460,1194,2024-11-14,Sports,Yoga Mat,3,175.06,525.18,92.66,google_pay,completed
+11461,1194,2024-10-21,Books,Business Strategy,3,29.4,88.2,0,google_pay,completed
+11462,1194,2024-10-21,Clothing,Blue Jeans,1,162.7,162.7,14.21,credit_card,completed
+11463,1194,2024-10-21,Electronics,iPhone 15,3,473.83,1421.49,0,apple_pay,completed
+11464,1170,2024-03-28,Beauty,Perfume,1,71.96,71.96,0,google_pay,refunded
+11465,1170,2024-03-28,Home,Table Lamp,2,308.2,616.4,0,paypal,completed
+11466,1170,2024-05-10,Sports,Gym Bag,1,56.26,56.26,0,google_pay,completed
+11467,1004,2024-12-07,Clothing,Cotton T-Shirt,1,42.34,42.34,3.94,google_pay,completed
+11468,1200,2024-10-12,Home,Blender,3,165.52,496.56,0,apple_pay,completed
+11469,1200,2024-10-12,Beauty,Lipstick,3,132.91,398.73,0,google_pay,completed
+11470,1200,2024-10-12,Books,The Great Novel,3,30.69,92.07,0,paypal,completed
+11471,1200,2024-10-12,Books,Self Help Book,2,28.44,56.88,0,google_pay,completed
+11472,1200,2024-10-23,Electronics,iPad Air,1,1341.0,1341.0,0,apple_pay,completed
+11473,1200,2024-10-23,Home,Table Lamp,1,34.48,34.48,0,paypal,cancelled
+11474,1200,2024-10-31,Sports,Gym Bag,1,220.67,220.67,0,google_pay,completed
+11475,1200,2024-10-31,Electronics,Sony Headphones,2,390.42,780.84,137.15,credit_card,completed
+11476,1200,2024-10-31,Beauty,Lipstick,2,105.03,210.06,0,apple_pay,completed
+11477,1113,2024-07-20,Beauty,Hair Serum,1,64.5,64.5,0,credit_card,completed
+11478,1123,2024-12-26,Sports,Running Belt,3,104.55,313.65,60.68,paypal,completed
+11479,1123,2024-12-26,Home,Towel Set,2,236.27,472.54,0,credit_card,completed
+11480,1123,2024-12-26,Electronics,Dell XPS,2,471.68,943.36,0,credit_card,completed
+11481,1049,2024-09-17,Electronics,Sony Headphones,1,2386.31,2386.31,0,paypal,completed
+11482,1049,2024-09-17,Clothing,Sneakers,3,39.85,119.55,17.97,google_pay,completed
+11483,1049,2024-09-17,Electronics,iPad Air,2,302.0,604.0,101.99,google_pay,completed
+11484,1177,2024-12-21,Sports,Water Bottle,3,75.4,226.2,0,apple_pay,completed
+11485,1177,2024-12-21,Books,Self Help Book,2,27.95,55.9,4.07,google_pay,completed
+11486,1177,2024-12-21,Sports,Basketball,1,144.22,144.22,0,google_pay,completed
+11487,1177,2024-12-22,Beauty,Nail Polish,1,94.78,94.78,0,paypal,completed
+11488,1177,2024-12-22,Books,Self Help Book,1,16.43,16.43,0,credit_card,refunded
+11489,1177,2024-12-22,Electronics,Apple Watch,1,792.12,792.12,0,apple_pay,completed
+11490,1177,2024-12-28,Beauty,Face Cream,2,78.98,157.96,13.62,credit_card,completed
+11491,1177,2024-12-28,Electronics,iPhone 15,3,1624.63,4873.89,0,credit_card,completed
+11492,1177,2024-12-28,Clothing,Sneakers,1,90.31,90.31,0,credit_card,completed
+11493,1177,2024-12-16,Sports,Gym Bag,2,185.24,370.48,39.56,apple_pay,completed
+11494,1177,2024-12-16,Sports,Basketball,3,34.69,104.07,0,google_pay,completed
+11495,1150,2024-10-15,Books,Cookbook,1,39.14,39.14,0,paypal,refunded
+11496,1040,2024-12-17,Home,Air Purifier,1,330.87,330.87,38.59,credit_card,completed
+11497,1040,2024-12-17,Books,Python Programming,3,37.14,111.42,0,credit_card,completed
+11498,1040,2024-12-17,Home,Coffee Maker,1,370.11,370.11,0,apple_pay,completed
+11499,1040,2024-12-19,Books,Cookbook,2,18.1,36.2,0,apple_pay,completed
+11500,1040,2024-12-19,Beauty,Hair Serum,3,138.81,416.43,0,credit_card,completed
+11501,1040,2024-12-19,Books,The Great Novel,1,38.08,38.08,0,credit_card,refunded
+11502,1040,2024-12-16,Beauty,Lipstick,2,97.83,195.66,16.08,credit_card,completed
+11503,1040,2024-12-16,Beauty,Nail Polish,3,125.91,377.73,0,paypal,cancelled
+11504,1040,2024-12-16,Sports,Basketball,2,212.23,424.46,0,paypal,completed
+11505,1040,2024-12-02,Sports,Resistance Bands,3,121.82,365.46,0,paypal,completed
+11506,1040,2024-12-02,Books,Biography,3,27.13,81.39,0,paypal,completed
+11507,1040,2024-12-02,Home,Air Purifier,1,359.98,359.98,0,google_pay,completed
