@@ -13,8 +13,11 @@ Welcome to my data analysis portfolio! I am a **Data Analyst** with a strong bac
 
 ### 01. Advanced Google Sheets
 * [Google Sheets Analytical Dashboard](01-google-sheets/01-google-sheets-dashboards)
+* [Statistical Analysis & Outlier Detection](01-google-sheets/02-statistical-analysis-outliers)
+* [CRM Data Integration & Workflow Automation](01-google-sheets/03-crm-automation-appsscript)
 
 ### 02. SQL Mastery (PostgreSQL & BigQuery)
+* [Basic SQL Queries Analysis](02-sql/04-sql-basic-queries-programiz)
 * [Relational DB Design](02-sql/05-sql-relational-db-design) - Schema creation and CRUD operations.
 * [Advanced BigQuery Analytics](02-sql/06-bigquery-advanced-analytics) - Working with `STRUCT`, `ARRAY`, and `UNNEST`.
 
