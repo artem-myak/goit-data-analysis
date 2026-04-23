@@ -12,7 +12,7 @@ Welcome to my data analysis portfolio! I am a **Data Analyst** with a strong bac
 ## 📂 Project Structure
 
 ### 01. Advanced Google Sheets
-* [E-commerce Sales Analysis](01-google-sheets/01-ecommerce-analysis) - Complex formulas, pivot tables, and interactive dashboards.
+* [Google Sheets Analytical Dashboard](01-google-sheets/01-google-sheets-dashboards)
 
 ### 02. SQL Mastery (PostgreSQL & BigQuery)
 * [Relational DB Design](02-sql/05-sql-relational-db-design) - Schema creation and CRUD operations.
