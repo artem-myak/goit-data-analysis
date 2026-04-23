@@ -5,6 +5,9 @@ This project presents a comprehensive analysis of a coffee retail network's perf
 
 The analysis is presented as a two-page interactive dashboard built in **Tableau**, optimized for professional aesthetics and actionable business insights.
 
+![Dashboard Screenshot p1](images/dashboard1.png)
+![Dashboard Screenshot p2](images/dashboard2.png)
+
 > **🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/22C3PDHN6?:display_count=n&:origin=viz_share_link)**
 
 ---
